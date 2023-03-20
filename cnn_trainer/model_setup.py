@@ -41,4 +41,4 @@ image_net.summary()
 image_net.compile(
     optimizer="adam", loss="categorical_crossentropy", metrics=["accuracy"]
 )
-image_net.save("/home/fizzer/cnn_trainer/image_net")
+image_net.save("/home/fizzer/ros_ws/cnn_trainer/image_net")

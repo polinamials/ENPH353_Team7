@@ -7,16 +7,16 @@ import h5py
 
 print("imported all the stuff")
 
-model = tf.keras.models.load_model("/home/fizzer/cnn_trainer/image_net")
+model = tf.keras.models.load_model("/home/fizzer/ros_ws/cnn_trainer/image_net")
 print("loaded model")
 
 
-h5f_imgs = h5py.File("/home/fizzer/cnn_trainer/data/img_data.h5", "r")
+h5f_imgs = h5py.File("/home/fizzer/ros_ws/cnn_trainer/data/img_data.h5", "r")
 img_data = h5f_imgs["img_data"][:]
 h5f_imgs.close()
 print("loaded images data")
 
-h5f_vel = h5py.File("/home/fizzer/cnn_trainer/data/vel_data.h5", "r")
+h5f_vel = h5py.File("/home/fizzer/ros_ws/cnn_trainer/data/vel_data.h5", "r")
 vel_data = h5f_vel["vel_data"][:]
 h5f_vel.close()
 print("loaded velocties data")
@@ -42,4 +42,4 @@ print(actions.shape)
 
 model.fit(img_data, actions, batch_size=64, epochs=2, validation_split=0.2)
 
-model.save("/home/fizzer/cnn_trainer/trained_model")
+model.save("/home/fizzer/ros_ws/cnn_trainer/trained_model")

@@ -3,8 +3,8 @@ import cv2
 import h5py
 
 # Loading all the data
-imgs = np.load("/home/fizzer/cnn_trainer/data/imgs_0.npy")
-vels = np.load("/home/fizzer/cnn_trainer/data/vels_0.npy")
+imgs = np.load("/home/fizzer/ros_ws/cnn_trainer/data/imgs_0.npy")
+vels = np.load("/home/fizzer/ros_ws/cnn_trainer/data/vels_0.npy")
 
 # remove all data where the robot is not moving forward
 not_moving_fwd_idx = np.where(vels[:, 0] == 0.0)[0]
@@ -21,10 +21,10 @@ print(norm_img_data.dtype)
 print("finished normalizing data")
 
 
-img_data_h5py = h5py.File("/home/fizzer/cnn_trainer/data/img_data.h5", "w")
+img_data_h5py = h5py.File("/home/fizzer/ros_ws/cnn_trainer/data/img_data.h5", "w")
 img_data_h5py.create_dataset("img_data", data=norm_img_data)
 
-vel_data_h5py = h5py.File("/home/fizzer/cnn_trainer/data/vel_data.h5", "w")
+vel_data_h5py = h5py.File("/home/fizzer/ros_ws/cnn_trainer/data/vel_data.h5", "w")
 vel_data_h5py.create_dataset("vel_data", data=vel_data)
 
 img_data_h5py.close()

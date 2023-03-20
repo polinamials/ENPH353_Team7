@@ -4,9 +4,9 @@ from tensorflow import keras
 from model_setup import velocities_to_actions
 import cv2
 
-model = tf.keras.models.load_model("/home/fizzer/cnn_trainer/trained_model")
-imgs_val = np.load("/home/fizzer/cnn_trainer/data/imgs_val_0.npy")
-vels_val = np.load("/home/fizzer/cnn_trainer/data/vels_val_0.npy")
+model = tf.keras.models.load_model("/home/fizzer/ros_ws/cnn_trainer/trained_model")
+imgs_val = np.load("/home/fizzer/ros_ws/cnn_trainer/data/imgs_val_0.npy")
+vels_val = np.load("/home/fizzer/ros_ws/cnn_trainer/data/vels_val_0.npy")
 
 not_moving_fwd_idx = np.where(vels_val[:, 0] == 0.0)[0]
 
