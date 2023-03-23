@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="enph353_gazebo" type="arrowkeys_control.py" name="arrowkeys_control" output="screen"/>
+	<node pkg="enph353_gazebo" type="cnn_driver.py" name="cnn_driver" output="screen"/>
+	<node pkg="enph353_gazebo" type="odom_control.py" name="odom_control" output="screen"/>
+</launch>

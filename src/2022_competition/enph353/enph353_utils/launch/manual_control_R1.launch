@@ -1,0 +1,6 @@
+<launch>
+	<group ns="R1">
+		<node pkg="enph353_gazebo" type="arrowkeys_control.py" name="arrowkeys_control" output="screen"/>
+	</node>
+	</group>
+</launch>
