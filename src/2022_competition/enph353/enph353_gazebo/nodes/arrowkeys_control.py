@@ -165,7 +165,7 @@ class ImitationTrainer:
                 self.move.linear.x = 0.0
                 self.move.angular.z = 0.0
 
-            # self.pub.publish(self.move)
+            self.pub.publish(self.move)
 
 
 if __name__ == "__main__":

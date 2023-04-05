@@ -31,7 +31,7 @@ class CNNDriver:
         # depends on how long it takes to predict a model
         self.wait_in_ms = 30
         self.hz = 1000 // self.wait_in_ms
-        self.rate = rospy.Rate(self.hz)
+        #self.rate = rospy.Rate(self.hz)
         # This is in milliseconds
         self.start_time = rospy.Time().now().to_nsec() // 1000000
 
@@ -44,7 +44,7 @@ class CNNDriver:
         gray_frame = gray_frame[..., np.newaxis]
         gray_frame = gray_frame / 255
         # print(compressed_frame.shape)
-        self.predict_vel(gray_frame)
+        #self.predict_vel(gray_frame)
         self.move.linear.x = 0.0
         self.move.angular.z = 0.0
 
