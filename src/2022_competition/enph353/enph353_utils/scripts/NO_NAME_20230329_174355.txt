@@ -1,0 +1,9 @@
+17:43:55.497: Position 1: SN50
+17:43:55.500: Position 2: HK80
+17:43:55.500: Position 3: MG66
+17:43:55.510: Position 4: UN56
+17:43:55.512: Position 5: GQ44
+17:43:55.512: Position 6: AJ56
+17:43:55.512: Position 7: GU67
+17:43:55.512: Position 8: BR70
+17:44:19.432: First command velocity received.

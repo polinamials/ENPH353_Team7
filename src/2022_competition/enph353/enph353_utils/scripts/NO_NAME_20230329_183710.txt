@@ -1,0 +1,10 @@
+18:37:10.966: Position 1: BV98
+18:37:10.967: Position 2: QU84
+18:37:10.967: Position 3: MC14
+18:37:10.968: Position 4: PR22
+18:37:10.968: Position 5: DY01
+18:37:10.969: Position 6: XV62
+18:37:10.969: Position 7: PB38
+18:37:10.969: Position 8: ZY47
+18:37:19.789: First command velocity received.
+18:37:19.800: Message received: team,robot,0,XXXX

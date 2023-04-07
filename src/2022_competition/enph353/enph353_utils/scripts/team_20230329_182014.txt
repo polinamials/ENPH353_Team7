@@ -1,0 +1,311 @@
+18:19:41.957: Position 1: EB95
+18:19:41.957: Position 2: JF89
+18:19:41.957: Position 3: FT38
+18:19:41.958: Position 4: CD51
+18:19:41.958: Position 5: FZ57
+18:19:41.959: Position 6: VL99
+18:19:41.959: Position 7: ZA88
+18:19:41.959: Position 8: HS11
+18:19:45.582: First command velocity received.
+18:20:14.690: Message received: team,robot,0,XXXX
+18:20:14.691: Timer started.
+18:20:14.746: Message received: team,robot,0,XXXX
+18:20:14.746: Timer started.
+18:20:14.798: Message received: team,robot,0,XXXX
+18:20:14.799: Timer started.
+18:20:14.863: Message received: team,robot,0,XXXX
+18:20:14.864: Timer started.
+18:20:14.932: Message received: team,robot,0,XXXX
+18:20:14.933: Timer started.
+18:20:14.996: Message received: team,robot,0,XXXX
+18:20:14.996: Timer started.
+18:20:15.064: Message received: team,robot,0,XXXX
+18:20:15.065: Timer started.
+18:20:15.132: Message received: team,robot,0,XXXX
+18:20:15.134: Timer started.
+18:20:15.202: Message received: team,robot,0,XXXX
+18:20:15.203: Timer started.
+18:20:15.268: Message received: team,robot,0,XXXX
+18:20:15.268: Timer started.
+18:20:15.341: Message received: team,robot,0,XXXX
+18:20:15.342: Timer started.
+18:20:15.411: Message received: team,robot,0,XXXX
+18:20:15.412: Timer started.
+18:20:15.480: Message received: team,robot,0,XXXX
+18:20:15.481: Timer started.
+18:20:15.548: Message received: team,robot,0,XXXX
+18:20:15.549: Timer started.
+18:20:15.610: Message received: team,robot,0,XXXX
+18:20:15.611: Timer started.
+18:20:15.681: Message received: team,robot,0,XXXX
+18:20:15.682: Timer started.
+18:20:15.746: Message received: team,robot,0,XXXX
+18:20:15.746: Timer started.
+18:20:15.813: Message received: team,robot,0,XXXX
+18:20:15.814: Timer started.
+18:20:15.893: Message received: team,robot,0,XXXX
+18:20:15.893: Timer started.
+18:20:15.954: Message received: team,robot,0,XXXX
+18:20:15.955: Timer started.
+18:20:16.023: Message received: team,robot,0,XXXX
+18:20:16.024: Timer started.
+18:20:16.090: Message received: team,robot,0,XXXX
+18:20:16.090: Timer started.
+18:20:16.166: Message received: team,robot,0,XXXX
+18:20:16.166: Timer started.
+18:20:16.228: Message received: team,robot,0,XXXX
+18:20:16.228: Timer started.
+18:20:16.293: Message received: team,robot,0,XXXX
+18:20:16.294: Timer started.
+18:20:16.365: Message received: team,robot,0,XXXX
+18:20:16.365: Timer started.
+18:20:16.437: Message received: team,robot,0,XXXX
+18:20:16.437: Timer started.
+18:20:16.502: Message received: team,robot,0,XXXX
+18:20:16.502: Timer started.
+18:20:16.565: Message received: team,robot,0,XXXX
+18:20:16.566: Timer started.
+18:20:16.636: Message received: team,robot,0,XXXX
+18:20:16.636: Timer started.
+18:20:16.703: Message received: team,robot,0,XXXX
+18:20:16.704: Timer started.
+18:20:16.770: Message received: team,robot,0,XXXX
+18:20:16.770: Timer started.
+18:20:16.837: Message received: team,robot,0,XXXX
+18:20:16.837: Timer started.
+18:20:16.904: Message received: team,robot,0,XXXX
+18:20:16.905: Timer started.
+18:20:16.972: Message received: team,robot,0,XXXX
+18:20:16.972: Timer started.
+18:20:17.043: Message received: team,robot,0,XXXX
+18:20:17.043: Timer started.
+18:20:17.110: Message received: team,robot,0,XXXX
+18:20:17.110: Timer started.
+18:20:17.174: Message received: team,robot,0,XXXX
+18:20:17.175: Timer started.
+18:20:17.242: Message received: team,robot,0,XXXX
+18:20:17.242: Timer started.
+18:20:17.307: Message received: team,robot,0,XXXX
+18:20:17.308: Timer started.
+18:20:17.380: Message received: team,robot,0,XXXX
+18:20:17.381: Timer started.
+18:20:17.445: Message received: team,robot,0,XXXX
+18:20:17.446: Timer started.
+18:20:17.512: Message received: team,robot,0,XXXX
+18:20:17.513: Timer started.
+18:20:17.576: Message received: team,robot,0,XXXX
+18:20:17.577: Timer started.
+18:20:17.648: Message received: team,robot,0,XXXX
+18:20:17.648: Timer started.
+18:20:17.713: Message received: team,robot,0,XXXX
+18:20:17.713: Timer started.
+18:20:17.782: Message received: team,robot,0,XXXX
+18:20:17.782: Timer started.
+18:20:17.847: Message received: team,robot,0,XXXX
+18:20:17.848: Timer started.
+18:20:17.917: Message received: team,robot,0,XXXX
+18:20:17.918: Timer started.
+18:20:17.987: Message received: team,robot,0,XXXX
+18:20:17.987: Timer started.
+18:20:18.058: Message received: team,robot,0,XXXX
+18:20:18.059: Timer started.
+18:20:18.127: Message received: team,robot,0,XXXX
+18:20:18.128: Timer started.
+18:20:18.195: Message received: team,robot,0,XXXX
+18:20:18.196: Timer started.
+18:20:18.259: Message received: team,robot,0,XXXX
+18:20:18.259: Timer started.
+18:20:18.324: Message received: team,robot,0,XXXX
+18:20:18.325: Timer started.
+18:20:18.391: Message received: team,robot,0,XXXX
+18:20:18.392: Timer started.
+18:20:18.464: Message received: team,robot,0,XXXX
+18:20:18.465: Timer started.
+18:20:18.530: Message received: team,robot,0,XXXX
+18:20:18.531: Timer started.
+18:20:18.597: Message received: team,robot,0,XXXX
+18:20:18.597: Timer started.
+18:20:18.663: Message received: team,robot,0,XXXX
+18:20:18.663: Timer started.
+18:20:18.732: Message received: team,robot,0,XXXX
+18:20:18.733: Timer started.
+18:20:18.800: Message received: team,robot,0,XXXX
+18:20:18.800: Timer started.
+18:20:18.867: Message received: team,robot,0,XXXX
+18:20:18.867: Timer started.
+18:20:18.935: Message received: team,robot,0,XXXX
+18:20:18.936: Timer started.
+18:20:19.002: Message received: team,robot,0,XXXX
+18:20:19.002: Timer started.
+18:20:19.069: Message received: team,robot,0,XXXX
+18:20:19.070: Timer started.
+18:20:19.138: Message received: team,robot,0,XXXX
+18:20:19.139: Timer started.
+18:20:19.205: Message received: team,robot,0,XXXX
+18:20:19.205: Timer started.
+18:20:19.269: Message received: team,robot,0,XXXX
+18:20:19.269: Timer started.
+18:20:19.337: Message received: team,robot,0,XXXX
+18:20:19.337: Timer started.
+18:20:19.405: Message received: team,robot,0,XXXX
+18:20:19.406: Timer started.
+18:20:19.471: Message received: team,robot,0,XXXX
+18:20:19.472: Timer started.
+18:20:19.543: Message received: team,robot,0,XXXX
+18:20:19.544: Timer started.
+18:20:19.606: Message received: team,robot,0,XXXX
+18:20:19.606: Timer started.
+18:20:19.676: Message received: team,robot,0,XXXX
+18:20:19.677: Timer started.
+18:20:19.743: Message received: team,robot,0,XXXX
+18:20:19.743: Timer started.
+18:20:19.811: Message received: team,robot,0,XXXX
+18:20:19.812: Timer started.
+18:20:19.880: Message received: team,robot,0,XXXX
+18:20:19.881: Timer started.
+18:20:19.945: Message received: team,robot,0,XXXX
+18:20:19.946: Timer started.
+18:20:20.013: Message received: team,robot,0,XXXX
+18:20:20.013: Timer started.
+18:20:20.083: Message received: team,robot,0,XXXX
+18:20:20.083: Timer started.
+18:20:20.151: Message received: team,robot,0,XXXX
+18:20:20.151: Timer started.
+18:20:20.215: Message received: team,robot,0,XXXX
+18:20:20.216: Timer started.
+18:20:20.287: Message received: team,robot,0,XXXX
+18:20:20.288: Timer started.
+18:20:20.350: Message received: team,robot,0,XXXX
+18:20:20.351: Timer started.
+18:20:20.421: Message received: team,robot,0,XXXX
+18:20:20.421: Timer started.
+18:20:20.489: Message received: team,robot,0,XXXX
+18:20:20.489: Timer started.
+18:20:20.556: Message received: team,robot,0,XXXX
+18:20:20.557: Timer started.
+18:20:20.623: Message received: team,robot,0,XXXX
+18:20:20.624: Timer started.
+18:20:20.692: Message received: team,robot,0,XXXX
+18:20:20.692: Timer started.
+18:20:20.757: Message received: team,robot,0,XXXX
+18:20:20.758: Timer started.
+18:20:20.822: Message received: team,robot,0,XXXX
+18:20:20.823: Timer started.
+18:20:20.893: Message received: team,robot,0,XXXX
+18:20:20.894: Timer started.
+18:20:20.963: Message received: team,robot,0,XXXX
+18:20:20.963: Timer started.
+18:20:21.030: Message received: team,robot,0,XXXX
+18:20:21.030: Timer started.
+18:20:21.096: Message received: team,robot,0,XXXX
+18:20:21.097: Timer started.
+18:20:21.165: Message received: team,robot,0,XXXX
+18:20:21.166: Timer started.
+18:20:21.234: Message received: team,robot,0,XXXX
+18:20:21.235: Timer started.
+18:20:21.300: Message received: team,robot,0,XXXX
+18:20:21.301: Timer started.
+18:20:21.367: Message received: team,robot,0,XXXX
+18:20:21.368: Timer started.
+18:20:21.432: Message received: team,robot,0,XXXX
+18:20:21.432: Timer started.
+18:20:21.501: Message received: team,robot,0,XXXX
+18:20:21.501: Timer started.
+18:20:21.567: Message received: team,robot,0,XXXX
+18:20:21.568: Timer started.
+18:20:21.638: Message received: team,robot,0,XXXX
+18:20:21.639: Timer started.
+18:20:21.704: Message received: team,robot,0,XXXX
+18:20:21.704: Timer started.
+18:20:21.769: Message received: team,robot,0,XXXX
+18:20:21.770: Timer started.
+18:20:21.837: Message received: team,robot,0,XXXX
+18:20:21.838: Timer started.
+18:20:21.905: Message received: team,robot,0,XXXX
+18:20:21.905: Timer started.
+18:20:21.974: Message received: team,robot,0,XXXX
+18:20:21.974: Timer started.
+18:20:22.038: Message received: team,robot,0,XXXX
+18:20:22.038: Timer started.
+18:20:22.112: Message received: team,robot,0,XXXX
+18:20:22.113: Timer started.
+18:20:22.187: Message received: team,robot,0,XXXX
+18:20:22.187: Timer started.
+18:20:22.246: Message received: team,robot,0,XXXX
+18:20:22.247: Timer started.
+18:20:22.315: Message received: team,robot,0,XXXX
+18:20:22.316: Timer started.
+18:20:22.390: Message received: team,robot,0,XXXX
+18:20:22.390: Timer started.
+18:20:22.454: Message received: team,robot,0,XXXX
+18:20:22.454: Timer started.
+18:20:22.521: Message received: team,robot,0,XXXX
+18:20:22.521: Timer started.
+18:20:22.590: Message received: team,robot,0,XXXX
+18:20:22.591: Timer started.
+18:20:22.659: Message received: team,robot,0,XXXX
+18:20:22.660: Timer started.
+18:20:22.725: Message received: team,robot,0,XXXX
+18:20:22.725: Timer started.
+18:20:22.792: Message received: team,robot,0,XXXX
+18:20:22.792: Timer started.
+18:20:22.868: Message received: team,robot,0,XXXX
+18:20:22.869: Timer started.
+18:20:22.929: Message received: team,robot,0,XXXX
+18:20:22.930: Timer started.
+18:20:23.004: Message received: team,robot,0,XXXX
+18:20:23.005: Timer started.
+18:20:23.065: Message received: team,robot,0,XXXX
+18:20:23.065: Timer started.
+18:20:23.137: Message received: team,robot,0,XXXX
+18:20:23.138: Timer started.
+18:20:23.223: Message received: team,robot,0,XXXX
+18:20:23.224: Timer started.
+18:20:23.280: Message received: team,robot,0,XXXX
+18:20:23.281: Timer started.
+18:20:23.350: Message received: team,robot,0,XXXX
+18:20:23.351: Timer started.
+18:20:23.417: Message received: team,robot,0,XXXX
+18:20:23.417: Timer started.
+18:20:23.481: Message received: team,robot,0,XXXX
+18:20:23.482: Timer started.
+18:20:23.544: Message received: team,robot,0,XXXX
+18:20:23.545: Timer started.
+18:20:23.612: Message received: team,robot,0,XXXX
+18:20:23.612: Timer started.
+18:20:23.680: Message received: team,robot,0,XXXX
+18:20:23.681: Timer started.
+18:20:23.750: Message received: team,robot,0,XXXX
+18:20:23.751: Timer started.
+18:20:23.817: Message received: team,robot,0,XXXX
+18:20:23.817: Timer started.
+18:20:23.884: Message received: team,robot,0,XXXX
+18:20:23.885: Timer started.
+18:20:23.952: Message received: team,robot,0,XXXX
+18:20:23.953: Timer started.
+18:20:24.020: Message received: team,robot,0,XXXX
+18:20:24.020: Timer started.
+18:20:24.089: Message received: team,robot,0,XXXX
+18:20:24.090: Timer started.
+18:20:24.154: Message received: team,robot,0,XXXX
+18:20:24.154: Timer started.
+18:20:24.224: Message received: team,robot,0,XXXX
+18:20:24.224: Timer started.
+18:20:24.291: Message received: team,robot,0,XXXX
+18:20:24.291: Timer started.
+18:20:24.359: Message received: team,robot,0,XXXX
+18:20:24.359: Timer started.
+18:20:24.424: Message received: team,robot,0,XXXX
+18:20:24.425: Timer started.
+18:20:24.493: Message received: team,robot,0,XXXX
+18:20:24.493: Timer started.
+18:20:24.564: Message received: team,robot,0,XXXX
+18:20:24.564: Timer started.
+18:20:24.630: Message received: team,robot,0,XXXX
+18:20:24.631: Timer started.
+18:20:24.698: Message received: team,robot,0,XXXX
+18:20:24.699: Timer started.
+18:20:24.771: Message received: team,robot,0,XXXX
+18:20:24.772: Timer started.
+18:20:24.790: Message received: team,robot,-1,XXXX
+18:20:24.791: Timer stopped: 0.017000000000003013sec sim time (real time: 0sec).

@@ -1,0 +1,10 @@
+18:43:25.747: Position 1: SA29
+18:43:25.747: Position 2: FA65
+18:43:25.747: Position 3: ZJ99
+18:43:25.747: Position 4: ET12
+18:43:25.748: Position 5: OA47
+18:43:25.748: Position 6: KF72
+18:43:25.748: Position 7: DL10
+18:43:25.748: Position 8: MO95
+18:43:34.884: First command velocity received.
+18:43:34.888: Message received: team6,robot,0,XXXX

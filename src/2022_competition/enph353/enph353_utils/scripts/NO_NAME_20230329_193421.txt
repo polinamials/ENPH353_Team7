@@ -1,0 +1,10 @@
+19:34:21.263: Position 1: TZ12
+19:34:21.264: Position 2: ZY95
+19:34:21.264: Position 3: MM51
+19:34:21.267: Position 4: BP91
+19:34:21.267: Position 5: CY59
+19:34:21.267: Position 6: GE75
+19:34:21.267: Position 7: OX98
+19:34:21.268: Position 8: YD74
+19:34:55.460: First command velocity received.
+19:34:55.464: Message received: team6,robot,0,XXXX

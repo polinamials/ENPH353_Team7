@@ -1,0 +1,11 @@
+11:02:55.485: Position 1: FK42
+11:02:55.485: Position 2: HN38
+11:02:55.486: Position 3: PL05
+11:02:55.488: Position 4: VY60
+11:02:55.488: Position 5: UC46
+11:02:55.488: Position 6: NS42
+11:02:55.488: Position 7: QQ40
+11:02:55.488: Position 8: ON39
+11:03:02.304: First command velocity received.
+11:03:02.310: Message received: team6,robot,0,XXXX
+11:03:02.311: Timer started.

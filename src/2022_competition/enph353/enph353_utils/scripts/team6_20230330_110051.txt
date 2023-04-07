@@ -1,0 +1,13 @@
+11:00:40.047: Position 1: HX51
+11:00:40.047: Position 2: JM95
+11:00:40.047: Position 3: SM73
+11:00:40.048: Position 4: CL73
+11:00:40.049: Position 5: DS01
+11:00:40.049: Position 6: GB04
+11:00:40.049: Position 7: ZZ63
+11:00:40.049: Position 8: GG79
+11:00:51.054: First command velocity received.
+11:00:51.058: Message received: team6,robot,0,XXXX
+11:00:51.061: Timer started.
+11:01:51.737: Message received: team,robot,-1,XXXX
+11:01:51.738: Timer stopped: 59.913sec sim time (real time: 60sec).

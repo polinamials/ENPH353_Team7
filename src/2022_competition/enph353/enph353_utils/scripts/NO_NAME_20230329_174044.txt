@@ -1,0 +1,9 @@
+17:40:44.377: Position 1: KD68
+17:40:44.377: Position 2: JQ45
+17:40:44.377: Position 3: IU72
+17:40:44.378: Position 4: EK13
+17:40:44.378: Position 5: OC93
+17:40:44.378: Position 6: QZ59
+17:40:44.378: Position 7: VP31
+17:40:44.379: Position 8: AD16
+17:40:44.428: First command velocity received.

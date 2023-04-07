@@ -1,0 +1,31 @@
+18:37:10.966: Position 1: BV98
+18:37:10.967: Position 2: QU84
+18:37:10.967: Position 3: MC14
+18:37:10.968: Position 4: PR22
+18:37:10.968: Position 5: DY01
+18:37:10.969: Position 6: XV62
+18:37:10.969: Position 7: PB38
+18:37:10.969: Position 8: ZY47
+18:37:19.789: First command velocity received.
+18:37:19.800: Message received: team,robot,0,XXXX
+18:37:19.801: Timer started.
+18:37:32.347: Message received: team,robot,-1,XXXX
+18:37:32.347: Timer stopped: 9.891999999999998sec sim time (real time: 12sec).
+18:37:42.454: Message received: team,robot,-1,XXXX
+18:37:42.454: Timer stopped: 19.891sec sim time (real time: 12sec).
+18:37:52.574: Message received: team,robot,-1,XXXX
+18:37:52.575: Timer stopped: 29.892000000000003sec sim time (real time: 12sec).
+18:38:02.685: Message received: team,robot,-1,XXXX
+18:38:02.686: Timer stopped: 39.892sec sim time (real time: 12sec).
+18:38:12.798: Message received: team,robot,-1,XXXX
+18:38:12.799: Timer stopped: 49.892sec sim time (real time: 12sec).
+18:38:22.909: Message received: team,robot,-1,XXXX
+18:38:22.911: Timer stopped: 59.891999999999996sec sim time (real time: 12sec).
+18:38:33.025: Message received: team,robot,-1,XXXX
+18:38:33.026: Timer stopped: 69.892sec sim time (real time: 12sec).
+18:38:43.142: Message received: team,robot,-1,XXXX
+18:38:43.143: Timer stopped: 79.891sec sim time (real time: 12sec).
+18:38:53.250: Message received: team,robot,-1,XXXX
+18:38:53.251: Timer stopped: 89.893sec sim time (real time: 12sec).
+18:39:03.366: Message received: team,robot,-1,XXXX
+18:39:03.367: Timer stopped: 99.892sec sim time (real time: 12sec).

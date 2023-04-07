@@ -1,0 +1,14 @@
+18:22:40.528: Position 1: CO84
+18:22:40.529: Position 2: KT37
+18:22:40.529: Position 3: BH09
+18:22:40.529: Position 4: PB96
+18:22:40.529: Position 5: AG75
+18:22:40.529: Position 6: BQ93
+18:22:40.530: Position 7: GT02
+18:22:40.530: Position 8: ML48
+18:22:48.559: First command velocity received.
+18:22:58.590: Message received: team,robot,-1,XXXX
+18:23:08.699: Message received: team,robot,-1,XXXX
+18:23:18.823: Message received: team,robot,-1,XXXX
+18:23:28.954: Message received: team,robot,-1,XXXX
+18:23:39.065: Message received: team,robot,-1,XXXX

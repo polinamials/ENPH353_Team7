@@ -1,0 +1,14 @@
+18:25:06.109: Position 1: IW72
+18:25:06.110: Position 2: QX97
+18:25:06.110: Position 3: FE81
+18:25:06.110: Position 4: JN62
+18:25:06.110: Position 5: PM73
+18:25:06.111: Position 6: ET12
+18:25:06.111: Position 7: KI71
+18:25:06.111: Position 8: OZ04
+18:25:13.956: First command velocity received.
+18:25:23.988: Message received: team,robot,-1,XXXX
+18:25:34.099: Message received: team,robot,-1,XXXX
+18:25:39.512: Full lap completed: +5 points
+18:25:39.514: Team total: 5 pts
+18:25:44.215: Message received: team,robot,-1,XXXX

@@ -1,0 +1,9 @@
+17:34:24.246: Position 1: CL14
+17:34:24.246: Position 2: CC73
+17:34:24.248: Position 3: MR35
+17:34:24.249: Position 4: PY06
+17:34:24.253: Position 5: RO06
+17:34:24.254: Position 6: AI51
+17:34:24.255: Position 7: YL37
+17:34:24.255: Position 8: BP11
+17:34:50.648: First command velocity received.

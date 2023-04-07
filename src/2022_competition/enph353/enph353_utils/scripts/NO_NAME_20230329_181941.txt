@@ -1,0 +1,10 @@
+18:19:41.957: Position 1: EB95
+18:19:41.957: Position 2: JF89
+18:19:41.957: Position 3: FT38
+18:19:41.958: Position 4: CD51
+18:19:41.958: Position 5: FZ57
+18:19:41.959: Position 6: VL99
+18:19:41.959: Position 7: ZA88
+18:19:41.959: Position 8: HS11
+18:19:45.582: First command velocity received.
+18:20:14.690: Message received: team,robot,0,XXXX

@@ -1,0 +1,9 @@
+17:37:06.505: Position 1: LU03
+17:37:06.506: Position 2: TN25
+17:37:06.506: Position 3: IS58
+17:37:06.506: Position 4: FH15
+17:37:06.506: Position 5: QZ74
+17:37:06.506: Position 6: ZE28
+17:37:06.507: Position 7: QI30
+17:37:06.507: Position 8: JT45
+17:37:06.624: First command velocity received.

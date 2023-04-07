@@ -1,0 +1,10 @@
+18:40:16.232: Position 1: PW39
+18:40:16.233: Position 2: WG72
+18:40:16.233: Position 3: QY81
+18:40:16.235: Position 4: LG79
+18:40:16.235: Position 5: NM77
+18:40:16.236: Position 6: JU87
+18:40:16.236: Position 7: NI04
+18:40:16.236: Position 8: XF58
+18:40:47.930: First command velocity received.
+18:40:47.935: Message received: team6,robot,0,XXXX
