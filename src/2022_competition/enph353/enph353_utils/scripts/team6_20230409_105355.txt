@@ -1,0 +1,17 @@
+10:53:48.453: Position 1: BH88
+10:53:48.454: Position 2: VA43
+10:53:48.454: Position 3: UF73
+10:53:48.454: Position 4: MK31
+10:53:48.455: Position 5: KT74
+10:53:48.455: Position 6: XH66
+10:53:48.455: Position 7: OQ02
+10:53:48.455: Position 8: NE72
+10:53:55.066: Message received: team6,robot,0,XXXX
+10:53:55.066: Timer started.
+10:53:55.129: First command velocity received.
+10:53:59.796: Message received: team6,robot,1,BH88
+10:53:59.797: Awarded: 6 pts
+10:53:59.799: Team total: 6 pts
+10:54:02.363: Message received: team6,robot,2,VA43
+10:54:02.364: Awarded: 6 pts
+10:54:02.366: Team total: 12 pts

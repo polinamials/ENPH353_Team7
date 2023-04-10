@@ -1,0 +1,61 @@
+16:38:36.852: Position 1: UP89
+16:38:36.852: Position 2: FZ10
+16:38:36.852: Position 3: RF74
+16:38:36.854: Position 4: KN38
+16:38:36.854: Position 5: PK14
+16:38:36.854: Position 6: MA77
+16:38:36.854: Position 7: FB52
+16:38:36.854: Position 8: FG19
+16:39:10.987: Message received: team6,robot,0,XXXX
+16:39:10.988: Timer started.
+16:39:11.056: First command velocity received.
+16:39:15.681: Message received: team6,robot,4,UP89
+16:39:15.681: Awarded: 0 pts
+16:39:19.714: Message received: team6,robot,2,FZ10
+16:39:19.715: Awarded: 6 pts
+16:39:19.717: Team total: 6 pts
+16:39:32.030: Message received: team6,robot,3,RF74
+16:39:32.031: Awarded: 6 pts
+16:39:32.032: Team total: 12 pts
+16:39:41.162: Message received: team6,robot,4,KN38
+16:39:41.163: Awarded: 6 pts
+16:39:41.163: Team total: 18 pts
+16:39:46.190: Message received: team6,robot,5,PK14
+16:39:46.190: Awarded: 6 pts
+16:39:46.192: Team total: 24 pts
+16:39:50.429: Message received: team6,robot,6,MA77
+16:39:50.430: Awarded: 6 pts
+16:39:50.431: Team total: 30 pts
+16:39:55.256: Message received: team6,robot,4,UP89
+16:39:55.257: Awarded: 0 pts
+16:39:55.259: Team total: 24 pts
+16:39:59.499: Message received: team6,robot,2,FZ10
+16:39:59.500: Awarded: 6 pts
+16:40:11.938: Message received: team6,robot,3,RF74
+16:40:11.939: Awarded: 6 pts
+16:40:24.108: Message received: team6,robot,4,KN38
+16:40:24.109: Awarded: 6 pts
+16:40:24.110: Team total: 30 pts
+16:40:28.994: Message received: team6,robot,5,PK14
+16:40:28.995: Awarded: 6 pts
+16:40:33.100: Message received: team6,robot,6,MA77
+16:40:33.100: Awarded: 6 pts
+16:40:38.193: Message received: team6,robot,4,UP89
+16:40:38.195: Awarded: 0 pts
+16:40:38.200: Team total: 24 pts
+16:40:42.296: Message received: team6,robot,2,FZ10
+16:40:42.296: Awarded: 6 pts
+16:40:55.730: Message received: team6,robot,3,RF74
+16:40:55.730: Awarded: 6 pts
+16:41:05.133: Message received: team6,robot,4,KN38
+16:41:05.134: Awarded: 6 pts
+16:41:05.136: Team total: 30 pts
+16:41:09.886: Message received: team6,robot,5,PK14
+16:41:09.887: Awarded: 6 pts
+16:41:14.068: Message received: team6,robot,6,MA77
+16:41:14.069: Awarded: 6 pts
+16:41:18.963: Message received: team6,robot,4,UP89
+16:41:18.964: Awarded: 0 pts
+16:41:18.965: Team total: 24 pts
+16:41:23.002: Message received: team6,robot,2,FZ10
+16:41:23.003: Awarded: 6 pts

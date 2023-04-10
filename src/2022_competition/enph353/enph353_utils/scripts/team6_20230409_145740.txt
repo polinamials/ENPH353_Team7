@@ -1,0 +1,20 @@
+14:57:19.857: Position 1: KW44
+14:57:19.857: Position 2: LI28
+14:57:19.858: Position 3: MX01
+14:57:19.860: Position 4: PU69
+14:57:19.860: Position 5: CT06
+14:57:19.860: Position 6: EH93
+14:57:19.860: Position 7: VB68
+14:57:19.861: Position 8: IJ64
+14:57:40.243: Message received: team6,robot,0,XXXX
+14:57:40.244: Timer started.
+14:57:40.299: First command velocity received.
+14:57:44.814: Message received: team6,robot,1,KW44
+14:57:44.815: Awarded: 6 pts
+14:57:44.815: Team total: 6 pts
+14:58:03.700: Message received: team6,robot,3,MX0I
+14:58:03.700: Awarded: 0 pts
+14:58:21.714: Message received: team6,robot,9,CT06
+14:58:21.714: Invalid plate location: 9
+14:58:25.483: Message received: team6,robot,6,EH9T
+14:58:25.483: Awarded: 0 pts

@@ -1,0 +1,59 @@
+18:33:37.167: Position 1: LG89
+18:33:37.167: Position 2: MS78
+18:33:37.167: Position 3: EH54
+18:33:37.170: Position 4: GM48
+18:33:37.170: Position 5: SP02
+18:33:37.170: Position 6: NO67
+18:33:37.170: Position 7: ZC30
+18:33:37.170: Position 8: JO69
+18:33:42.865: Message received: team6,robot,0,XXXX
+18:33:42.865: Timer started.
+18:33:42.928: First command velocity received.
+18:33:47.309: Message received: team6,robot,1,LG89
+18:33:47.309: Awarded: 6 pts
+18:33:47.312: Team total: 6 pts
+18:33:51.686: Message received: team6,robot,2,MS78
+18:33:51.687: Awarded: 6 pts
+18:33:51.688: Team total: 12 pts
+18:34:05.146: Message received: team6,robot,3,EH54
+18:34:05.146: Awarded: 6 pts
+18:34:05.148: Team total: 18 pts
+18:34:21.423: Message received: team6,robot,1,LG89
+18:34:21.423: Awarded: 6 pts
+18:34:24.801: Message received: team6,robot,2,MS78
+18:34:24.802: Awarded: 6 pts
+18:34:38.279: Message received: team6,robot,1,LG89
+18:34:38.279: Awarded: 6 pts
+18:34:45.729: Message received: team6,robot,2,MS78
+18:34:45.730: Awarded: 6 pts
+18:34:47.862: Message received: team6,robot,2,MS78
+18:34:47.862: Awarded: 6 pts
+18:34:51.641: Message received: team6,robot,1,LG89
+18:34:51.641: Awarded: 6 pts
+18:34:56.004: Message received: team6,robot,2,MS78
+18:34:56.005: Awarded: 6 pts
+18:34:59.379: Message received: team6,robot,1,LG89
+18:34:59.379: Awarded: 6 pts
+18:35:03.180: Message received: team6,robot,2,MS78
+18:35:03.181: Awarded: 6 pts
+18:35:12.265: Message received: team6,robot,1,LG89
+18:35:12.266: Awarded: 6 pts
+18:35:22.737: Message received: team6,robot,1,LG89
+18:35:22.738: Awarded: 6 pts
+18:35:26.672: Message received: team6,robot,2,MS78
+18:35:26.672: Awarded: 6 pts
+18:35:35.980: Message received: team6,robot,3,FH54
+18:35:35.981: Awarded: 0 pts
+18:35:35.982: Team total: 12 pts
+18:35:45.827: Message received: team6,robot,4,GM48
+18:35:45.828: Awarded: 6 pts
+18:35:45.829: Team total: 18 pts
+18:35:59.816: Message received: team6,robot,2,MS78
+18:35:59.816: Awarded: 6 pts
+18:36:10.207: Message received: team6,robot,3,EH54
+18:36:10.208: Awarded: 6 pts
+18:36:10.209: Team total: 24 pts
+18:36:14.454: Message received: team6,robot,1,LG89
+18:36:14.454: Awarded: 6 pts
+18:36:18.715: Message received: team6,robot,2,MS78
+18:36:18.715: Awarded: 6 pts

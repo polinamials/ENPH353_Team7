@@ -1,0 +1,16 @@
+17:01:34.025: Position 1: XI28
+17:01:34.025: Position 2: NN15
+17:01:34.025: Position 3: GO48
+17:01:34.026: Position 4: CJ13
+17:01:34.026: Position 5: TP40
+17:01:34.027: Position 6: BD87
+17:01:34.027: Position 7: SZ36
+17:01:34.027: Position 8: UR96
+17:01:45.624: Message received: team6,robot,0,XXXX
+17:01:45.625: Timer started.
+17:01:45.687: First command velocity received.
+17:01:50.242: Message received: team6,robot,4,XI28
+17:01:50.242: Awarded: 0 pts
+17:01:54.518: Message received: team6,robot,2,NN15
+17:01:54.519: Awarded: 6 pts
+17:01:54.519: Team total: 6 pts

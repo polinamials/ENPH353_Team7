@@ -1,0 +1,84 @@
+18:17:51.484: Position 1: UA46
+18:17:51.484: Position 2: IH08
+18:17:51.484: Position 3: RT40
+18:17:51.484: Position 4: BR21
+18:17:51.484: Position 5: OW19
+18:17:51.485: Position 6: ZD05
+18:17:51.485: Position 7: QB52
+18:17:51.485: Position 8: VN75
+18:18:17.907: Message received: team6,robot,0,XXXX
+18:18:17.908: Timer started.
+18:18:17.975: First command velocity received.
+18:18:22.569: Message received: team6,robot,1,UA46
+18:18:22.570: Awarded: 6 pts
+18:18:22.579: Team total: 6 pts
+18:18:26.553: Message received: team6,robot,2,IH08
+18:18:26.553: Awarded: 6 pts
+18:18:26.554: Team total: 12 pts
+18:18:35.022: Message received: team6,robot,1,UA46
+18:18:35.023: Awarded: 6 pts
+18:18:38.606: Message received: team6,robot,2,TH0T
+18:18:38.606: Awarded: 0 pts
+18:18:38.607: Team total: 6 pts
+18:18:52.668: Message received: team6,robot,3,RT40
+18:18:52.669: Awarded: 6 pts
+18:18:52.671: Team total: 12 pts
+18:19:02.019: Message received: team6,robot,4,BR21
+18:19:02.020: Awarded: 6 pts
+18:19:02.022: Team total: 18 pts
+18:19:10.415: Message received: team6,robot,6,ZD05
+18:19:10.416: Awarded: 6 pts
+18:19:10.417: Team total: 24 pts
+18:19:15.973: Message received: team6,robot,1,UA46
+18:19:15.974: Awarded: 6 pts
+18:19:20.285: Message received: team6,robot,2,IH08
+18:19:20.285: Awarded: 6 pts
+18:19:20.286: Team total: 30 pts
+18:19:34.771: Message received: team6,robot,3,RT40
+18:19:34.773: Awarded: 6 pts
+18:19:44.054: Message received: team6,robot,4,BR21
+18:19:44.054: Awarded: 6 pts
+18:19:52.620: Message received: team6,robot,6,ZD05
+18:19:52.621: Awarded: 6 pts
+18:19:57.921: Message received: team6,robot,1,UA46
+18:19:57.922: Awarded: 6 pts
+18:20:02.320: Message received: team6,robot,2,IH08
+18:20:02.321: Awarded: 6 pts
+18:20:13.666: Message received: team6,robot,3,RT40
+18:20:13.667: Awarded: 6 pts
+18:20:34.019: Message received: team6,robot,6,ZD05
+18:20:34.020: Awarded: 6 pts
+18:20:36.546: Message received: team6,robot,1,UA46
+18:20:36.547: Awarded: 6 pts
+18:20:40.871: Message received: team6,robot,2,IH08
+18:20:40.871: Awarded: 6 pts
+18:20:54.818: Message received: team6,robot,3,RT40
+18:20:54.819: Awarded: 6 pts
+18:21:06.270: Message received: team6,robot,4,BR21
+18:21:06.271: Awarded: 6 pts
+18:21:15.410: Message received: team6,robot,6,ZD05
+18:21:15.411: Awarded: 6 pts
+18:21:19.967: Message received: team6,robot,1,UA46
+18:21:19.968: Awarded: 6 pts
+18:21:23.682: Message received: team6,robot,2,IH08
+18:21:23.683: Awarded: 6 pts
+18:21:36.776: Message received: team6,robot,1,UA46
+18:21:36.777: Awarded: 6 pts
+18:21:40.302: Message received: team6,robot,2,IH08
+18:21:40.303: Awarded: 6 pts
+18:22:08.141: Message received: team6,robot,1,UA46
+18:22:08.141: Awarded: 6 pts
+18:22:12.207: Message received: team6,robot,2,TH08
+18:22:12.208: Awarded: 0 pts
+18:22:12.209: Team total: 24 pts
+18:22:16.980: Out of time: 240.03199999999998sec sim time (real time: 239sec).
+18:22:23.861: Message received: team6,robot,3,TT40
+18:22:23.862: Awarded: 0 pts
+18:22:23.864: Team total: 18 pts
+18:22:29.009: Message received: team6,robot,1,UA46
+18:22:29.012: Awarded: 6 pts
+18:22:33.062: Message received: team6,robot,2,IH08
+18:22:33.063: Awarded: 6 pts
+18:22:33.067: Team total: 24 pts
+18:22:56.841: Message received: team6,robot,4,BR21
+18:22:56.842: Awarded: 6 pts

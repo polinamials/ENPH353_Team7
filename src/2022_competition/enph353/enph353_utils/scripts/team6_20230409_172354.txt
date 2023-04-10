@@ -1,0 +1,22 @@
+17:23:47.710: Position 1: KT49
+17:23:47.710: Position 2: KD80
+17:23:47.710: Position 3: DL43
+17:23:47.712: Position 4: YT22
+17:23:47.712: Position 5: MC19
+17:23:47.712: Position 6: HD13
+17:23:47.712: Position 7: EN47
+17:23:47.712: Position 8: XG97
+17:23:54.489: Message received: team6,robot,0,XXXX
+17:23:54.489: Timer started.
+17:23:54.552: First command velocity received.
+17:23:59.051: Message received: team6,robot,4,KT49
+17:23:59.055: Awarded: 0 pts
+17:24:02.963: Message received: team6,robot,2,KD80
+17:24:02.964: Awarded: 6 pts
+17:24:02.965: Team total: 6 pts
+17:24:16.893: Message received: team6,robot,3,1L43
+17:24:16.894: Awarded: 0 pts
+17:24:27.842: Message received: team6,robot,4,KT49
+17:24:27.842: Awarded: 0 pts
+17:24:32.225: Message received: team6,robot,2,KD80
+17:24:32.226: Awarded: 6 pts

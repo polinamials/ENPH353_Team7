@@ -1,0 +1,49 @@
+13:10:29.567: Position 1: WU48
+13:10:29.567: Position 2: TJ56
+13:10:29.568: Position 3: OK37
+13:10:29.568: Position 4: HD93
+13:10:29.568: Position 5: JA28
+13:10:29.568: Position 6: CL10
+13:10:29.568: Position 7: VY60
+13:10:29.569: Position 8: DM51
+13:10:40.156: Message received: team6,robot,0,XXXX
+13:10:40.156: Timer started.
+13:10:40.219: First command velocity received.
+13:10:44.714: Message received: team6,robot,1,WU48
+13:10:44.715: Awarded: 6 pts
+13:10:44.716: Team total: 6 pts
+13:10:49.024: Message received: team6,robot,2,TJ56
+13:10:49.024: Awarded: 6 pts
+13:10:49.025: Team total: 12 pts
+13:11:00.944: Message received: team6,robot,3,OK37
+13:11:00.945: Awarded: 6 pts
+13:11:00.948: Team total: 18 pts
+13:11:14.497: Message received: team6,robot,4,HD93
+13:11:14.497: Awarded: 6 pts
+13:11:14.498: Team total: 24 pts
+13:11:19.523: Message received: team6,robot,5,JA28
+13:11:19.527: Awarded: 6 pts
+13:11:19.527: Team total: 30 pts
+13:11:23.198: Message received: team6,robot,6,CL10
+13:11:23.198: Awarded: 6 pts
+13:11:23.201: Team total: 36 pts
+13:11:28.461: Message received: team6,robot,1,WU48
+13:11:28.462: Awarded: 6 pts
+13:11:32.768: Message received: team6,robot,2,TJ56
+13:11:32.769: Awarded: 6 pts
+13:11:34.956: Full lap completed: +5 points
+13:11:34.957: Team total: 41 pts
+13:11:46.408: Message received: team6,robot,3,OK37
+13:11:46.409: Awarded: 6 pts
+13:11:58.244: Message received: team6,robot,4,HD93
+13:11:58.244: Awarded: 6 pts
+13:12:03.204: Message received: team6,robot,5,JA28
+13:12:03.204: Awarded: 6 pts
+13:12:07.510: Message received: team6,robot,6,CL10
+13:12:07.510: Awarded: 6 pts
+13:12:12.284: Message received: team6,robot,1,WU48
+13:12:12.285: Awarded: 6 pts
+13:12:14.847: Message received: team6,robot,2,TJ56
+13:12:14.848: Awarded: 6 pts
+13:12:28.313: Message received: team6,robot,3,OK37
+13:12:28.316: Awarded: 6 pts

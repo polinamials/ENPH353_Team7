@@ -1,0 +1,39 @@
+16:43:23.273: Position 1: UU95
+16:43:23.273: Position 2: QD83
+16:43:23.273: Position 3: BF98
+16:43:23.274: Position 4: IV49
+16:43:23.274: Position 5: EB07
+16:43:23.274: Position 6: RB29
+16:43:23.275: Position 7: MQ59
+16:43:23.275: Position 8: WT56
+16:44:08.650: Message received: team6,robot,0,XXXX
+16:44:08.651: Timer started.
+16:44:08.716: First command velocity received.
+16:44:13.278: Message received: team6,robot,1,UU95
+16:44:13.279: Awarded: 6 pts
+16:44:13.281: Team total: 6 pts
+16:44:17.650: Message received: team6,robot,2,QD83
+16:44:17.651: Awarded: 6 pts
+16:44:17.652: Team total: 12 pts
+16:44:30.629: Message received: team6,robot,3,BF98
+16:44:30.630: Awarded: 6 pts
+16:44:30.630: Team total: 18 pts
+16:44:44.253: Message received: team6,robot,4,IV49
+16:44:44.253: Awarded: 6 pts
+16:44:44.256: Team total: 24 pts
+16:44:49.070: Message received: team6,robot,5,EB07
+16:44:49.072: Awarded: 6 pts
+16:44:49.074: Team total: 30 pts
+16:44:53.316: Message received: team6,robot,6,RB29
+16:44:53.317: Awarded: 6 pts
+16:44:53.317: Team total: 36 pts
+16:44:58.147: Message received: team6,robot,7,UU95
+16:44:58.148: Awarded: 0 pts
+16:45:02.261: Message received: team6,robot,8,QD83
+16:45:02.261: Awarded: 0 pts
+16:45:06.342: Full lap completed: +5 points
+16:45:06.343: Team total: 41 pts
+16:45:23.591: Message received: team6,robot,9,IV49
+16:45:23.591: Invalid plate location: 9
+16:45:29.130: Message received: team6,robot,10,EB07
+16:45:29.131: Invalid plate location: 10

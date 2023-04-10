@@ -1,0 +1,51 @@
+17:16:05.301: Position 1: PL71
+17:16:05.301: Position 2: CI23
+17:16:05.301: Position 3: VQ20
+17:16:05.304: Position 4: PW88
+17:16:05.304: Position 5: WA50
+17:16:05.304: Position 6: KR95
+17:16:05.304: Position 7: CV22
+17:16:05.304: Position 8: YF49
+17:16:11.870: Message received: team6,robot,0,XXXX
+17:16:11.871: Timer started.
+17:16:11.931: First command velocity received.
+17:16:20.423: Message received: team6,robot,2,CI23
+17:16:20.424: Awarded: 6 pts
+17:16:20.426: Team total: 6 pts
+17:16:33.198: Message received: team6,robot,4,PL71
+17:16:33.199: Awarded: 0 pts
+17:16:36.652: Message received: team6,robot,2,CI23
+17:16:36.653: Awarded: 6 pts
+17:16:51.439: Message received: team6,robot,3,VQ20
+17:16:51.440: Awarded: 6 pts
+17:16:51.441: Team total: 12 pts
+17:17:01.681: Message received: team6,robot,4,PW88
+17:17:01.682: Awarded: 6 pts
+17:17:01.682: Team total: 18 pts
+17:17:06.872: Message received: team6,robot,5,WA50
+17:17:06.873: Awarded: 6 pts
+17:17:06.878: Team total: 24 pts
+17:17:10.458: Message received: team6,robot,6,KR95
+17:17:10.459: Awarded: 6 pts
+17:17:10.461: Team total: 30 pts
+17:17:10.465: Message received: team,robot,-1,XXXX
+17:17:10.466: Timer stopped: 57.937sec sim time (real time: 58sec).
+17:17:15.918: Message received: team6,robot,4,PL71
+17:17:15.919: Awarded: 0 pts
+17:17:15.919: Team total: 24 pts
+17:17:19.364: Message received: team6,robot,2,CI23
+17:17:19.364: Awarded: 6 pts
+17:17:31.778: Message received: team6,robot,3,VQ20
+17:17:31.778: Awarded: 6 pts
+17:17:44.831: Message received: team6,robot,4,PW88
+17:17:44.831: Awarded: 6 pts
+17:17:44.833: Team total: 30 pts
+17:17:50.021: Message received: team6,robot,5,WA50
+17:17:50.021: Awarded: 6 pts
+17:17:53.473: Message received: team6,robot,6,KR95
+17:17:53.474: Awarded: 6 pts
+17:17:59.001: Message received: team6,robot,4,PL71
+17:17:59.002: Awarded: 0 pts
+17:17:59.002: Team total: 24 pts
+17:18:02.906: Message received: team6,robot,2,CI23
+17:18:02.907: Awarded: 6 pts

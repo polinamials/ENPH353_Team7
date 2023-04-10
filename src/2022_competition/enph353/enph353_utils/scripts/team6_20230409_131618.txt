@@ -1,0 +1,26 @@
+13:16:06.204: Position 1: RM18
+13:16:06.204: Position 2: WI08
+13:16:06.204: Position 3: JT15
+13:16:06.204: Position 4: DB30
+13:16:06.204: Position 5: VN52
+13:16:06.205: Position 6: VP97
+13:16:06.205: Position 7: BA30
+13:16:06.205: Position 8: ET56
+13:16:18.034: Message received: team6,robot,0,XXXX
+13:16:18.035: Timer started.
+13:16:18.098: First command velocity received.
+13:16:22.678: Message received: team6,robot,3,RM1T
+13:16:22.683: Awarded: 0 pts
+13:16:27.058: Message received: team6,robot,2,WI08
+13:16:27.059: Awarded: 6 pts
+13:16:27.061: Team total: 6 pts
+13:16:39.747: Message received: team6,robot,3,JT14
+13:16:39.748: Awarded: 0 pts
+13:16:52.366: Penalty: vehicle collision: -5 pts
+13:16:52.367: Penalties total: -5 pts
+13:16:52.368: Team total: 1 pts
+13:17:03.536: Message received: team6,robot,1,RM18
+13:17:03.536: Awarded: 6 pts
+13:17:03.538: Team total: 7 pts
+13:17:06.416: Message received: team6,robot,2,WI08
+13:17:06.418: Awarded: 6 pts

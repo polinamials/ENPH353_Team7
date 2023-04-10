@@ -1,0 +1,63 @@
+16:24:39.565: Position 1: PX39
+16:24:39.565: Position 2: CZ35
+16:24:39.565: Position 3: YB36
+16:24:39.566: Position 4: JU93
+16:24:39.567: Position 5: JZ02
+16:24:39.567: Position 6: XG31
+16:24:39.567: Position 7: PK03
+16:24:39.567: Position 8: EN66
+16:25:17.882: Message received: team6,robot,0,XXXX
+16:25:17.883: Timer started.
+16:25:17.952: First command velocity received.
+16:25:22.541: Message received: team6,robot,1,PX39
+16:25:22.541: Awarded: 6 pts
+16:25:22.542: Team total: 6 pts
+16:25:26.788: Message received: team6,robot,2,CZ35
+16:25:26.788: Awarded: 6 pts
+16:25:26.790: Team total: 12 pts
+16:25:40.239: Message received: team6,robot,3,YB36
+16:25:40.239: Awarded: 6 pts
+16:25:40.240: Team total: 18 pts
+16:25:49.895: Message received: team6,robot,4,JU93
+16:25:49.895: Awarded: 6 pts
+16:25:49.897: Team total: 24 pts
+16:26:06.744: Message received: team6,robot,1,PX39
+16:26:06.746: Awarded: 6 pts
+16:26:10.420: Message received: team6,robot,2,CZ35
+16:26:10.420: Awarded: 6 pts
+16:26:16.234: Message received: team6,robot,1,PX39
+16:26:16.234: Awarded: 6 pts
+16:26:20.168: Message received: team6,robot,2,CZ35
+16:26:20.168: Awarded: 6 pts
+16:26:33.043: Message received: team6,robot,3,YB36
+16:26:33.043: Awarded: 6 pts
+16:26:44.507: Message received: team6,robot,4,JU93
+16:26:44.507: Awarded: 6 pts
+16:26:49.248: Message received: team6,robot,5,JZ02
+16:26:49.249: Awarded: 6 pts
+16:26:49.251: Team total: 30 pts
+16:26:53.295: Message received: team6,robot,8,XG31
+16:26:53.295: Awarded: 0 pts
+16:26:58.388: Message received: team6,robot,1,PX39
+16:26:58.388: Awarded: 6 pts
+16:27:02.549: Message received: team6,robot,2,CZ35
+16:27:02.553: Awarded: 6 pts
+16:27:24.311: Message received: team6,robot,1,PX39
+16:27:24.311: Awarded: 6 pts
+16:27:28.683: Message received: team6,robot,2,CZ35
+16:27:28.683: Awarded: 6 pts
+16:27:38.746: Message received: team6,robot,3,YB36
+16:27:38.747: Awarded: 6 pts
+16:27:51.812: Message received: team6,robot,1,PX39
+16:27:51.812: Awarded: 6 pts
+16:27:56.068: Message received: team6,robot,2,CZ35
+16:27:56.069: Awarded: 6 pts
+16:28:05.297: Message received: team6,robot,3,YB36
+16:28:05.297: Awarded: 6 pts
+16:28:16.784: Message received: team6,robot,4,JU93
+16:28:16.784: Awarded: 6 pts
+16:28:50.960: Message received: team6,robot,1,PX39
+16:28:50.960: Awarded: 6 pts
+16:28:54.542: Message received: team6,robot,2,CZ35
+16:28:54.543: Awarded: 6 pts
+16:29:16.980: Out of time: 240.771sec sim time (real time: 239sec).

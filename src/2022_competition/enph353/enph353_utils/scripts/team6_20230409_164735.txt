@@ -1,0 +1,13 @@
+16:46:57.722: Position 1: MU74
+16:46:57.722: Position 2: SD43
+16:46:57.723: Position 3: XH74
+16:46:57.725: Position 4: TN91
+16:46:57.725: Position 5: CI27
+16:46:57.725: Position 6: OM96
+16:46:57.725: Position 7: HI90
+16:46:57.725: Position 8: TK45
+16:47:35.528: Message received: team6,robot,0,XXXX
+16:47:35.529: Timer started.
+16:47:35.591: First command velocity received.
+16:47:44.443: Message received: team6,robot,1,SD43
+16:47:44.444: Awarded: 0 pts

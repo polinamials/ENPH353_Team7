@@ -1,0 +1,39 @@
+17:43:34.529: Position 1: QF41
+17:43:34.529: Position 2: VG85
+17:43:34.529: Position 3: JM22
+17:43:34.530: Position 4: NF85
+17:43:34.530: Position 5: EN21
+17:43:34.530: Position 6: MB83
+17:43:34.530: Position 7: LF50
+17:43:34.530: Position 8: VW00
+17:43:40.478: Message received: team6,robot,0,XXXX
+17:43:40.478: Timer started.
+17:43:40.542: First command velocity received.
+17:43:45.177: Message received: team6,robot,4,QF41
+17:43:45.178: Awarded: 0 pts
+17:43:49.478: Message received: team6,robot,2,VG85
+17:43:49.479: Awarded: 6 pts
+17:43:49.480: Team total: 6 pts
+17:43:59.556: Message received: team6,robot,3,JM22
+17:43:59.557: Awarded: 6 pts
+17:43:59.557: Team total: 12 pts
+17:44:16.569: Message received: team6,robot,4,QF41
+17:44:16.570: Awarded: 0 pts
+17:44:20.209: Message received: team6,robot,2,VG85
+17:44:20.210: Awarded: 6 pts
+17:44:31.205: Message received: team6,robot,3,JM22
+17:44:31.207: Awarded: 6 pts
+17:44:42.071: Message received: team6,robot,4,NF85
+17:44:42.072: Awarded: 6 pts
+17:44:42.073: Team total: 18 pts
+17:44:46.970: Message received: team6,robot,5,EN21
+17:44:46.970: Awarded: 6 pts
+17:44:46.973: Team total: 24 pts
+17:44:51.086: Message received: team6,robot,6,MB83
+17:44:51.087: Awarded: 6 pts
+17:44:51.087: Team total: 30 pts
+17:44:55.840: Message received: team6,robot,4,QF41
+17:44:55.841: Awarded: 0 pts
+17:44:55.842: Team total: 24 pts
+17:44:59.476: Message received: team6,robot,2,VG85
+17:44:59.477: Awarded: 6 pts

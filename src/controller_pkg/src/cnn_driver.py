@@ -10,6 +10,8 @@ import cv2
 from cv_bridge import CvBridge
 from plate_detector import PlateDetector
 
+import matplotlib.pyplot as plt
+
 
 class CNNDriver:
     def __init__(self):
@@ -44,37 +46,80 @@ class CNNDriver:
         self.prev_mean = 0.0
         self.pedestrian_crossed = False
         self.cool_off_start_time = rospy.Time.now().to_sec()
-        self.PED_COOL_OFF = 2
+        self.PED_COOL_OFF = 1.5
 
         # score tracker
         self.score_pub = rospy.Publisher("/license_plate", String, queue_size=1)
-        # time trials only
+
         # self.timer = rospy.Timer(rospy.Duration(60), self.stop_timer)
-        # self.started_timer = False
-        # self.stopped_timer = False
+        self.started_timer = False
+        self.stopped_timer = False
 
         # plate detection
         self.plate_detector = PlateDetector()
-        self.PLATE_COOL_OFF = 0.5
+        self.plate_detection_start_time = 0
+        self.passed_plate = False
+        self.prev_stack_size = 0
+        self.PLATE_COOL_OFF = 2
+        self.plate_count = 0
 
     def callback(self, data):
         frame = self.bridge.imgmsg_to_cv2(data, desired_encoding="bgr8")
 
-        # TODO
-        # while its passing the plate, it gets a bunch of images of it.
-        # We predict each one and store the PROBABILITEIS
-        # Then we have some sort of timer that says:
-        # if you haven't seen a plate in half a second, means you passed it.
-        # now choose the highest overall prediction FOR EACH SYMBOL
-        # print plate number
+        #########
 
-        ##########
+        plate = ""
+        pnum = 10
 
-        plate_number = self.plate_detector.read_plate(frame)
-        if plate_number:
-            print("plate number: ", plate_number)
+        self.plate_detector.add_to_prob_stack(frame)
+        current_stack_size = self.plate_detector.get_stack_size()
 
-        ##########
+        if (
+            (current_stack_size != 0)
+            & (current_stack_size == self.prev_stack_size)
+            & (not self.passed_plate)
+        ):
+            self.passed_plate = True
+            self.plate_detection_start_time = rospy.Time.now().to_sec()
+
+        current_time = rospy.Time.now().to_sec()
+        diff = current_time - self.plate_detection_start_time
+        if (diff >= self.PLATE_COOL_OFF) & (self.passed_plate):
+            self.passed_plate = False
+            self.plate_detection_start_time = 0
+            plate, syms, pnum = self.plate_detector.read_best_plate()
+            self.plate_detector.clear_sym_prob_stack()
+            self.plate_detector.clear_sym_stack()
+            self.plate_detector.clear_pnum_prob_stack()
+            current_stack_size = 0
+
+        self.prev_stack_size = current_stack_size
+        if not self.started_timer:
+            self.score_pub.publish(str("team6,robot,0,XXXX"))
+            self.started_timer = True
+
+        elif (self.started_timer) & (len(list(plate)) != 0):
+            self.plate_count += 1
+            self.score_pub.publish(str("team6,robot,{},{}".format(str(pnum), plate)))
+
+            # stack = np.array(self.plate_detector.pnum_stack).squeeze()
+            # print(stack.shape)
+
+            # if stack.ndim > 2:
+            #     pnum_img = np.concatenate(stack, axis=1).astype("uint8").squeeze()
+            # else:
+            #     pnum_img = stack.astype("uint8").squeeze()
+
+            # print(pnum_img.shape)
+
+            # cv2.imshow("pnum", pnum_img)
+            # cv2.waitKey(1)
+            # # cv2.destroyAllWindows()
+
+            # self.plate_detector.clear_pnum_stack()
+
+            if pnum == 8:
+                self.stop_timer()
 
         if rospy.Time.now().to_sec() - self.cool_off_start_time >= self.PED_COOL_OFF:
             self.check_crosswalk(frame)
@@ -113,11 +158,6 @@ class CNNDriver:
                 self.prev_mean = 0.0
                 self.cool_off_start_time = rospy.Time.now().to_sec()
 
-        # TODO remove after time trials
-        # if not self.started_timer:
-        #     self.score_pub.publish(str("team6,robot,0,XXXX"))
-        #     self.started_timer = True
-
     def compress(self, img, kern):
         h, w, d = img.shape
         return np.array(
@@ -138,7 +178,7 @@ class CNNDriver:
         output = cv2.bitwise_and(cropped, cropped, mask=mask)
         self.red = np.mean(output)
 
-    def stop_timer(self, event):
+    def stop_timer(self):
         if not self.stopped_timer:
             self.score_pub.publish(str("team,robot,-1,XXXX"))
             self.stopped_timer = True

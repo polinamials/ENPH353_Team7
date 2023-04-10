@@ -1,0 +1,17 @@
+18:31:30.765: Position 1: RC64
+18:31:30.766: Position 2: DQ55
+18:31:30.766: Position 3: HY72
+18:31:30.768: Position 4: XZ52
+18:31:30.769: Position 5: UW93
+18:31:30.769: Position 6: AU01
+18:31:30.769: Position 7: WB28
+18:31:30.769: Position 8: QL48
+18:31:37.065: Message received: team6,robot,0,XXXX
+18:31:37.066: Timer started.
+18:31:37.128: First command velocity received.
+18:31:41.589: Message received: team6,robot,1,RC64
+18:31:41.589: Awarded: 6 pts
+18:31:41.591: Team total: 6 pts
+18:31:56.544: Message received: team6,robot,3,HY72
+18:31:56.544: Awarded: 6 pts
+18:31:56.545: Team total: 12 pts

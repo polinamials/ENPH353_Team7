@@ -1,0 +1,41 @@
+18:04:43.688: Position 1: SA18
+18:04:43.688: Position 2: TM20
+18:04:43.689: Position 3: JI04
+18:04:43.690: Position 4: EH27
+18:04:43.690: Position 5: PP35
+18:04:43.690: Position 6: GV22
+18:04:43.690: Position 7: VB08
+18:04:43.691: Position 8: OU49
+18:04:50.057: Message received: team6,robot,0,XXXX
+18:04:50.058: Timer started.
+18:04:50.124: First command velocity received.
+18:04:54.914: Message received: team6,robot,1,SA18
+18:04:54.915: Awarded: 6 pts
+18:04:54.915: Team total: 6 pts
+18:04:58.971: Message received: team6,robot,2,TM20
+18:04:58.971: Awarded: 6 pts
+18:04:58.974: Team total: 12 pts
+18:05:12.305: Message received: team6,robot,1,SA18
+18:05:12.305: Awarded: 6 pts
+18:05:16.170: Message received: team6,robot,2,TM20
+18:05:16.171: Awarded: 6 pts
+18:05:27.297: Message received: team6,robot,3,JI04
+18:05:27.298: Awarded: 6 pts
+18:05:27.301: Team total: 18 pts
+18:05:36.639: Message received: team6,robot,4,EH27
+18:05:36.640: Awarded: 6 pts
+18:05:36.643: Team total: 24 pts
+18:05:41.602: Message received: team6,robot,5,PP35
+18:05:41.603: Awarded: 6 pts
+18:05:41.603: Team total: 30 pts
+18:05:45.592: Message received: team6,robot,6,GV22
+18:05:45.592: Awarded: 6 pts
+18:05:45.593: Team total: 36 pts
+18:05:50.619: Message received: team6,robot,1,SA18
+18:05:50.619: Awarded: 6 pts
+18:05:54.517: Message received: team6,robot,2,TM20
+18:05:54.518: Awarded: 6 pts
+18:07:49.009: Message received: team6,robot,1,SA18
+18:07:49.009: Awarded: 6 pts
+18:07:52.983: Message received: team6,robot,2,TM20
+18:07:52.984: Awarded: 6 pts
