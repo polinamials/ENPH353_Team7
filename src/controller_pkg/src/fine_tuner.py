@@ -19,7 +19,7 @@ class FineTuner:
             "/R1/pi_camera/image_raw", Image, self.callback, queue_size=10
         )
         self.driver_model = tf.keras.models.load_model(
-            "/home/fizzer/ros_ws/src/controller_pkg/cnn_trainer/trained_model_0"
+            "/home/fizzer/ros_ws/src/controller_pkg/cnn_trainer/inner_loop_rm_straight_bias_2"
         )
         self.move = Twist()
         self.move.linear.x = 0.0

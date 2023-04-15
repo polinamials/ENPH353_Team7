@@ -1,0 +1,48 @@
+01:10:50.556: Position 1: IA78
+01:10:50.556: Position 2: TX33
+01:10:50.556: Position 3: RY94
+01:10:50.559: Position 4: RD67
+01:10:50.559: Position 5: AV34
+01:10:50.559: Position 6: FL31
+01:10:50.559: Position 7: FP50
+01:10:50.559: Position 8: ZQ63
+01:10:55.104: First command velocity received.
+01:10:55.708: Message received: team6,robot,0,XXXX
+01:10:55.709: Timer started.
+01:10:59.989: Message received: team6,robot,1,TA78
+01:10:59.990: Awarded: 0 pts
+01:11:03.582: Message received: team6,robot,2,TX33
+01:11:03.582: Awarded: 6 pts
+01:11:03.583: Team total: 6 pts
+01:11:19.247: Message received: team6,robot,3,RY94
+01:11:19.248: Awarded: 6 pts
+01:11:19.250: Team total: 12 pts
+01:11:33.877: Message received: team6,robot,4,RD67
+01:11:33.878: Awarded: 6 pts
+01:11:33.878: Team total: 18 pts
+01:11:39.355: Message received: team6,robot,5,AV34
+01:11:39.355: Awarded: 6 pts
+01:11:39.357: Team total: 24 pts
+01:11:44.035: Message received: team6,robot,6,FL31
+01:11:44.035: Awarded: 6 pts
+01:11:44.037: Team total: 30 pts
+01:11:52.471: Message received: team6,robot,7,FP50
+01:11:52.471: Awarded: 8 pts
+01:11:52.474: Team total: 38 pts
+01:12:01.609: Message received: team6,robot,8,ZO63
+01:12:01.610: Awarded: 0 pts
+01:12:10.681: Message received: team6,robot,1,TA78
+01:12:10.681: Awarded: 0 pts
+01:12:13.826: Message received: team6,robot,2,TX33
+01:12:13.827: Awarded: 6 pts
+01:12:28.832: Message received: team6,robot,3,RY94
+01:12:28.833: Awarded: 6 pts
+01:12:41.674: Message received: team6,robot,4,RD67
+01:12:41.674: Awarded: 6 pts
+01:12:47.435: Message received: team6,robot,5,AV34
+01:12:47.436: Awarded: 6 pts
+01:12:51.760: Message received: team6,robot,6,FL31
+01:12:51.761: Awarded: 6 pts
+01:12:59.469: Message received: team6,robot,7,TP50
+01:12:59.470: Awarded: 0 pts
+01:12:59.471: Team total: 30 pts

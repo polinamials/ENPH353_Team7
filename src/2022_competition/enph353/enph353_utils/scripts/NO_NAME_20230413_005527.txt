@@ -1,0 +1,10 @@
+00:55:27.278: Position 1: WO94
+00:55:27.279: Position 2: UH35
+00:55:27.279: Position 3: HX95
+00:55:27.279: Position 4: SQ24
+00:55:27.279: Position 5: QJ75
+00:55:27.279: Position 6: QB83
+00:55:27.280: Position 7: TU53
+00:55:27.280: Position 8: FZ37
+00:55:43.000: First command velocity received.
+00:55:43.673: Message received: team6,robot,0,XXXX

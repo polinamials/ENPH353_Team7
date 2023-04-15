@@ -1,0 +1,53 @@
+22:57:38.059: Position 1: KN21
+22:57:38.059: Position 2: YE02
+22:57:38.060: Position 3: LW79
+22:57:38.060: Position 4: XT16
+22:57:38.060: Position 5: FR38
+22:57:38.060: Position 6: RN67
+22:57:38.061: Position 7: IG01
+22:57:38.061: Position 8: VR95
+22:57:43.648: Message received: team6,robot,0,XXXX
+22:57:43.649: Timer started.
+22:57:43.712: First command velocity received.
+22:57:48.381: Message received: team6,robot,1,KN21
+22:57:48.382: Awarded: 6 pts
+22:57:48.383: Team total: 6 pts
+22:57:51.754: Message received: team6,robot,2,YE02
+22:57:51.754: Awarded: 6 pts
+22:57:51.756: Team total: 12 pts
+22:58:09.205: Message received: team6,robot,1,KN21
+22:58:09.205: Awarded: 6 pts
+22:58:12.476: Message received: team6,robot,2,YE02
+22:58:12.477: Awarded: 6 pts
+22:58:35.862: Message received: team6,robot,2,YE02
+22:58:35.863: Awarded: 6 pts
+22:58:42.001: Message received: team6,robot,1,KN21
+22:58:42.004: Awarded: 6 pts
+22:58:56.158: Message received: team6,robot,2,YE02
+22:58:56.159: Awarded: 6 pts
+22:59:07.345: Message received: team6,robot,2,YE02
+22:59:07.346: Awarded: 6 pts
+22:59:23.684: Message received: team6,robot,3,LW79
+22:59:23.685: Awarded: 6 pts
+22:59:23.685: Team total: 18 pts
+22:59:37.536: Message received: team6,robot,2,YE02
+22:59:37.536: Awarded: 6 pts
+22:59:53.977: Message received: team6,robot,3,LW79
+22:59:53.978: Awarded: 6 pts
+23:00:08.497: Message received: team6,robot,4,XT16
+23:00:08.498: Awarded: 6 pts
+23:00:08.499: Team total: 24 pts
+23:00:15.854: Message received: team6,robot,5,FR38
+23:00:15.854: Awarded: 6 pts
+23:00:15.856: Team total: 30 pts
+23:00:21.022: Message received: team6,robot,6,RN67
+23:00:21.022: Awarded: 6 pts
+23:00:21.025: Team total: 36 pts
+23:00:38.679: Message received: team6,robot,1,KN21
+23:00:38.680: Awarded: 6 pts
+23:00:43.046: Message received: team6,robot,2,YE02
+23:00:43.047: Awarded: 6 pts
+23:00:57.403: Message received: team6,robot,3,LW79
+23:00:57.404: Awarded: 6 pts
+23:01:20.359: Message received: team6,robot,2,YE02
+23:01:20.360: Awarded: 6 pts

@@ -21,7 +21,7 @@ class CNNDriver:
             "/R1/pi_camera/image_raw", Image, self.callback, queue_size=10
         )
         self.driver_model = tf.keras.models.load_model(
-            "/home/fizzer/ros_ws/src/controller_pkg/cnn_trainer/trained_model_rm_straight_bias"
+            "/home/fizzer/ros_ws/src/controller_pkg/cnn_trainer/inner_loop_rm_straight_bias_2"
         )
         self.move = Twist()
         self.move.linear.x = 0.0
@@ -29,6 +29,7 @@ class CNNDriver:
         self.actions_to_vels = np.array([(0.25, 0.0), (0.25, 1.0), (0.25, -1.0)])
         self.COMPRESSION_KERN = 8
         self.bridge = CvBridge()
+        self.first_callback = True
 
         # crosswalk detection
         self.lower = np.array([0, 0, 250])
@@ -38,15 +39,15 @@ class CNNDriver:
 
         # pedestrian crossing
         self.check_crosswalk_flag = True
-        self.RED_THRESH = 3.5
+        self.RED_THRESH = 2.0
         self.r, self.c = 400, 540
         self.width = 200
         self.height = 225
-        self.PED_THRESH = 0.1
+        self.PED_THRESH = 0.15
         self.prev_mean = 0.0
         self.pedestrian_crossed = False
         self.cool_off_start_time = rospy.Time.now().to_sec()
-        self.PED_COOL_OFF = 1.5
+        self.PED_COOL_OFF = 3.0
 
         # score tracker
         self.score_pub = rospy.Publisher("/license_plate", String, queue_size=1)
@@ -64,99 +65,103 @@ class CNNDriver:
         self.plate_count = 0
 
     def callback(self, data):
-        frame = self.bridge.imgmsg_to_cv2(data, desired_encoding="bgr8")
+        if self.first_callback:
+            print("starting...")
+            self.first_callback = False
 
-        #########
+            self.move.linear.x = 0.25
+            self.move.angular.z = 1.0
+            self.vel_pub.publish(self.move)
+            rospy.sleep(0.25)
 
-        plate = ""
-        pnum = 10
-
-        self.plate_detector.add_to_prob_stack(frame)
-        current_stack_size = self.plate_detector.get_stack_size()
-
-        if (
-            (current_stack_size != 0)
-            & (current_stack_size == self.prev_stack_size)
-            & (not self.passed_plate)
-        ):
-            self.passed_plate = True
-            self.plate_detection_start_time = rospy.Time.now().to_sec()
-
-        current_time = rospy.Time.now().to_sec()
-        diff = current_time - self.plate_detection_start_time
-        if (diff >= self.PLATE_COOL_OFF) & (self.passed_plate):
-            self.passed_plate = False
-            self.plate_detection_start_time = 0
-            plate, syms, pnum = self.plate_detector.read_best_plate()
-            self.plate_detector.clear_sym_prob_stack()
-            self.plate_detector.clear_sym_stack()
-            self.plate_detector.clear_pnum_prob_stack()
-            current_stack_size = 0
-
-        self.prev_stack_size = current_stack_size
-        if not self.started_timer:
-            self.score_pub.publish(str("team6,robot,0,XXXX"))
-            self.started_timer = True
-
-        elif (self.started_timer) & (len(list(plate)) != 0):
-            self.plate_count += 1
-            self.score_pub.publish(str("team6,robot,{},{}".format(str(pnum), plate)))
-
-            # stack = np.array(self.plate_detector.pnum_stack).squeeze()
-            # print(stack.shape)
-
-            # if stack.ndim > 2:
-            #     pnum_img = np.concatenate(stack, axis=1).astype("uint8").squeeze()
-            # else:
-            #     pnum_img = stack.astype("uint8").squeeze()
-
-            # print(pnum_img.shape)
-
-            # cv2.imshow("pnum", pnum_img)
-            # cv2.waitKey(1)
-            # # cv2.destroyAllWindows()
-
-            # self.plate_detector.clear_pnum_stack()
-
-            if pnum == 8:
-                self.stop_timer()
-
-        if rospy.Time.now().to_sec() - self.cool_off_start_time >= self.PED_COOL_OFF:
-            self.check_crosswalk(frame)
-
-        if self.red <= self.RED_THRESH:
-            compressed_frame = self.compress(frame, self.COMPRESSION_KERN)
-            gray_frame = cv2.cvtColor(compressed_frame, cv2.COLOR_BGR2GRAY)
-            gray_frame = gray_frame[np.newaxis, ...]
-            gray_frame = gray_frame[..., np.newaxis]
-            gray_frame = gray_frame / 255
-            self.predict_vel(gray_frame)
         else:
-            # TODO make this a function
-            if not self.pedestrian_crossed:
-                self.move.linear.x = 0.0
-                self.move.angular.z = 0.0
-                self.vel_pub.publish(self.move)
+            frame = self.bridge.imgmsg_to_cv2(data, desired_encoding="bgr8")
 
-                # TODO remove magic number
-                rospy.sleep(0.1)
+            if (
+                rospy.Time.now().to_sec() - self.cool_off_start_time
+                >= self.PED_COOL_OFF
+            ):
+                self.check_crosswalk(frame)
 
-                pedestrian_frame = frame[
-                    self.r : self.r + self.height + 1, self.c : self.c + self.width + 1
-                ]
-
-                current_mean = round(np.mean(pedestrian_frame), 2)
-                if self.prev_mean > (current_mean + self.PED_THRESH):
-                    self.pedestrian_crossed = True
-
-                self.prev_mean = current_mean
+            if self.red <= self.RED_THRESH:
+                compressed_frame = self.compress(frame, self.COMPRESSION_KERN)
+                gray_frame = cv2.cvtColor(compressed_frame, cv2.COLOR_BGR2GRAY)
+                gray_frame = gray_frame[np.newaxis, ...]
+                gray_frame = gray_frame[..., np.newaxis]
+                gray_frame = gray_frame / 255
+                self.predict_vel(gray_frame)
             else:
-                # TODO remove magic number
-                rospy.sleep(0.4)
-                self.pedestrian_crossed = False
-                self.red = 0.0
-                self.prev_mean = 0.0
-                self.cool_off_start_time = rospy.Time.now().to_sec()
+                # print("seeing red line")
+                # TODO make this a function
+                if not self.pedestrian_crossed:
+                    # print("pedestrian has not crossed")
+                    self.move.linear.x = 0.0
+                    self.move.angular.z = 0.0
+                    self.vel_pub.publish(self.move)
+
+                    # TODO remove magic number
+                    rospy.sleep(0.1)
+
+                    pedestrian_frame = frame[
+                        self.r : self.r + self.height + 1,
+                        self.c : self.c + self.width + 1,
+                    ]
+
+                    current_mean = round(np.mean(pedestrian_frame), 2)
+                    # print("current mean: ", current_mean)
+                    if self.prev_mean > (current_mean + self.PED_THRESH):
+                        self.pedestrian_crossed = True
+
+                    self.prev_mean = current_mean
+                else:
+                    # print("pedestrian crossed")
+                    # TODO remove magic number
+                    rospy.sleep(0.25)
+                    self.pedestrian_crossed = False
+                    self.red = 0.0
+                    self.prev_mean = 0.0
+                    self.cool_off_start_time = rospy.Time.now().to_sec()
+
+                #########
+
+            plate = ""
+            pnum = 10
+
+            self.plate_detector.add_to_prob_stack(frame)
+            current_stack_size = self.plate_detector.get_stack_size()
+
+            if (
+                (current_stack_size != 0)
+                & (current_stack_size == self.prev_stack_size)
+                & (not self.passed_plate)
+            ):
+                self.passed_plate = True
+                self.plate_detection_start_time = rospy.Time.now().to_sec()
+
+            current_time = rospy.Time.now().to_sec()
+            diff = current_time - self.plate_detection_start_time
+            if (diff >= self.PLATE_COOL_OFF) & (self.passed_plate):
+                self.passed_plate = False
+                self.plate_detection_start_time = 0
+                plate, syms, pnum = self.plate_detector.read_best_plate()
+                self.plate_detector.clear_sym_prob_stack()
+                self.plate_detector.clear_sym_stack()
+                self.plate_detector.clear_pnum_prob_stack()
+                current_stack_size = 0
+
+            self.prev_stack_size = current_stack_size
+            if not self.started_timer:
+                self.score_pub.publish(str("team6,robot,0,XXXX"))
+                self.started_timer = True
+
+            elif (self.started_timer) & (len(list(plate)) != 0):
+                self.plate_count += 1
+                self.score_pub.publish(
+                    str("team6,robot,{},{}".format(str(pnum), plate))
+                )
+
+                # if pnum == 8:
+                #     self.stop_timer()
 
     def compress(self, img, kern):
         h, w, d = img.shape
@@ -185,7 +190,7 @@ class CNNDriver:
 
 
 if __name__ == "__main__":
-    rospy.sleep(1)
     rospy.init_node("CNN_DRIVER")
-    it = CNNDriver()
+    driver = CNNDriver()
+    rospy.sleep(1)
     rospy.spin()

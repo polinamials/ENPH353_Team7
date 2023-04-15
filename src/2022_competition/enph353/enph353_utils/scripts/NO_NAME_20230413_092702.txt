@@ -1,0 +1,10 @@
+09:27:02.467: Position 1: ZX07
+09:27:02.467: Position 2: OG68
+09:27:02.467: Position 3: TT44
+09:27:02.467: Position 4: KI48
+09:27:02.468: Position 5: MH99
+09:27:02.468: Position 6: CS17
+09:27:02.468: Position 7: WK90
+09:27:02.468: Position 8: YB35
+09:27:19.818: First command velocity received.
+09:27:20.438: Message received: team6,robot,0,XXXX

@@ -97,6 +97,7 @@ class PlateDetector:
 
         # remove magic numbers
         # for areas used to be 20
+        # contours = np.array(contours, dtype=object)
         contours = np.delete(
             contours,
             np.where(
@@ -424,7 +425,15 @@ class PlateDetector:
             model_symbols = symbols / 255
             model_pnum = pnum / 255
 
-            plate_pred = self.plate_model.predict(model_symbols)
+            # plate_pred = self.plate_model.predict(model_symbols)
+
+            plate_pred = []
+            for s in model_symbols:
+                s = s[np.newaxis, ...]
+                plate_pred.append(self.plate_model(s))
+
+            plate_pred = np.array(plate_pred).squeeze()
+
             pnum_pred = self.pnum_model(model_pnum)
 
             self.symbol_prob_stack.append(plate_pred)

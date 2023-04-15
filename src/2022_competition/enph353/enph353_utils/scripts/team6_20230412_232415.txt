@@ -1,0 +1,16 @@
+23:24:07.895: Position 1: OF44
+23:24:07.895: Position 2: QO20
+23:24:07.895: Position 3: KE88
+23:24:07.896: Position 4: QF44
+23:24:07.896: Position 5: SK34
+23:24:07.896: Position 6: WJ24
+23:24:07.896: Position 7: SW31
+23:24:07.896: Position 8: FT52
+23:24:12.075: First command velocity received.
+23:24:15.697: Message received: team6,robot,0,XXXX
+23:24:15.698: Timer started.
+23:24:19.490: Message received: team6,robot,1,OF44
+23:24:19.491: Awarded: 6 pts
+23:24:19.499: Team total: 6 pts
+23:24:22.247: Message received: team6,robot,2,1O20
+23:24:22.247: Awarded: 0 pts

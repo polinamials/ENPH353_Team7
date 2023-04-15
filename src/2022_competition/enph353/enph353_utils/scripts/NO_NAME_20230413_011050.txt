@@ -1,0 +1,10 @@
+01:10:50.556: Position 1: IA78
+01:10:50.556: Position 2: TX33
+01:10:50.556: Position 3: RY94
+01:10:50.559: Position 4: RD67
+01:10:50.559: Position 5: AV34
+01:10:50.559: Position 6: FL31
+01:10:50.559: Position 7: FP50
+01:10:50.559: Position 8: ZQ63
+01:10:55.104: First command velocity received.
+01:10:55.708: Message received: team6,robot,0,XXXX

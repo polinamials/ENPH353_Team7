@@ -1,0 +1,57 @@
+16:15:28.432: Position 1: IY61
+16:15:28.432: Position 2: KK67
+16:15:28.432: Position 3: MU28
+16:15:28.435: Position 4: SF01
+16:15:28.435: Position 5: HL03
+16:15:28.435: Position 6: YJ35
+16:15:28.435: Position 7: MT19
+16:15:28.435: Position 8: ZN61
+16:15:36.836: First command velocity received.
+16:15:37.414: Message received: team6,robot,0,XXXX
+16:15:37.415: Timer started.
+16:15:41.623: Message received: team6,robot,1,IY61
+16:15:41.624: Awarded: 6 pts
+16:15:41.624: Team total: 6 pts
+16:15:45.690: Message received: team6,robot,2,KK67
+16:15:45.690: Awarded: 6 pts
+16:15:45.692: Team total: 12 pts
+16:15:58.222: Message received: team6,robot,3,MU28
+16:15:58.223: Awarded: 6 pts
+16:15:58.226: Team total: 18 pts
+16:16:11.994: Message received: team6,robot,4,SF01
+16:16:11.995: Awarded: 6 pts
+16:16:11.999: Team total: 24 pts
+16:16:16.859: Message received: team6,robot,5,HL03
+16:16:16.861: Awarded: 6 pts
+16:16:16.864: Team total: 30 pts
+16:16:21.141: Message received: team6,robot,6,YJ35
+16:16:21.141: Awarded: 6 pts
+16:16:21.142: Team total: 36 pts
+16:16:27.990: Message received: team6,robot,7,MT19
+16:16:27.991: Awarded: 8 pts
+16:16:27.994: Team total: 44 pts
+16:16:37.472: Message received: team6,robot,8,ZN61
+16:16:37.472: Awarded: 8 pts
+16:16:37.473: Team total: 52 pts
+16:16:37.473: Message received: team,robot,-1,XXXX
+16:16:37.473: Timer stopped: 59.126999999999995sec sim time (real time: 60sec).
+16:16:45.664: Message received: team6,robot,1,IY61
+16:16:45.664: Awarded: 6 pts
+16:16:49.451: Message received: team6,robot,2,KK67
+16:16:49.452: Awarded: 6 pts
+16:17:00.427: Message received: team6,robot,3,MU28
+16:17:00.428: Awarded: 6 pts
+16:17:12.643: Message received: team6,robot,4,SF01
+16:17:12.643: Awarded: 6 pts
+16:17:17.840: Message received: team6,robot,5,HL03
+16:17:17.841: Awarded: 6 pts
+16:17:21.896: Message received: team6,robot,6,YJ35
+16:17:21.897: Awarded: 6 pts
+16:17:28.716: Message received: team6,robot,7,MT19
+16:17:28.717: Awarded: 8 pts
+16:17:54.642: Message received: team6,robot,1,IY61
+16:17:54.643: Awarded: 6 pts
+16:17:58.786: Message received: team6,robot,2,KK67
+16:17:58.787: Awarded: 6 pts
+16:18:13.170: Message received: team6,robot,3,MU28
+16:18:13.171: Awarded: 6 pts

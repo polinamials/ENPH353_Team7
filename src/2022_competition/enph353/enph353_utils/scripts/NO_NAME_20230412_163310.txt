@@ -1,0 +1,10 @@
+16:33:10.951: Position 1: XB66
+16:33:10.951: Position 2: QL27
+16:33:10.951: Position 3: PR87
+16:33:10.952: Position 4: MD04
+16:33:10.952: Position 5: QE54
+16:33:10.953: Position 6: EZ81
+16:33:10.953: Position 7: CL82
+16:33:10.953: Position 8: XR60
+16:33:20.109: First command velocity received.
+16:33:20.758: Message received: team6,robot,0,XXXX

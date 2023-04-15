@@ -1,0 +1,10 @@
+13:08:48.056: Position 1: PP87
+13:08:48.056: Position 2: VB33
+13:08:48.056: Position 3: JK36
+13:08:48.057: Position 4: PU22
+13:08:48.057: Position 5: BD04
+13:08:48.057: Position 6: VT58
+13:08:48.057: Position 7: CQ46
+13:08:48.058: Position 8: KP69
+13:08:55.380: First command velocity received.
+13:08:55.964: Message received: team6,robot,0,XXXX

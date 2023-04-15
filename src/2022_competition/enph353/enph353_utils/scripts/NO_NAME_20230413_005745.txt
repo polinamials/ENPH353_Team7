@@ -1,0 +1,10 @@
+00:57:45.855: Position 1: OQ04
+00:57:45.855: Position 2: NU14
+00:57:45.855: Position 3: WM56
+00:57:45.856: Position 4: ZR71
+00:57:45.856: Position 5: ZC33
+00:57:45.857: Position 6: AE66
+00:57:45.857: Position 7: II82
+00:57:45.857: Position 8: CP55
+00:57:59.222: First command velocity received.
+00:57:59.868: Message received: team6,robot,0,XXXX

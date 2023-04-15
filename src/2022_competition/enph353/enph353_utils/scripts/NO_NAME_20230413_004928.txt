@@ -1,0 +1,10 @@
+00:49:28.301: Position 1: ZU01
+00:49:28.301: Position 2: FJ76
+00:49:28.301: Position 3: AO27
+00:49:28.303: Position 4: FY98
+00:49:28.303: Position 5: RK95
+00:49:28.303: Position 6: CM77
+00:49:28.303: Position 7: IA81
+00:49:28.303: Position 8: IA72
+00:49:40.656: First command velocity received.
+00:49:41.861: Message received: team6,robot,0,XXXX

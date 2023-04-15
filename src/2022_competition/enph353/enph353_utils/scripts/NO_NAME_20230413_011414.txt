@@ -1,0 +1,10 @@
+01:14:14.012: Position 1: LQ14
+01:14:14.012: Position 2: BB44
+01:14:14.012: Position 3: JI14
+01:14:14.014: Position 4: NW24
+01:14:14.014: Position 5: DT84
+01:14:14.015: Position 6: CU88
+01:14:14.015: Position 7: BN22
+01:14:14.015: Position 8: MM41
+01:14:20.959: First command velocity received.
+01:14:21.516: Message received: team6,robot,0,XXXX

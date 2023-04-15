@@ -1,0 +1,53 @@
+00:33:31.099: Position 1: VP07
+00:33:31.099: Position 2: XI71
+00:33:31.099: Position 3: KW51
+00:33:31.100: Position 4: GF72
+00:33:31.100: Position 5: GZ92
+00:33:31.101: Position 6: CA66
+00:33:31.101: Position 7: PW92
+00:33:31.101: Position 8: WF47
+00:33:45.369: First command velocity received.
+00:33:46.577: Message received: team6,robot,0,XXXX
+00:33:46.577: Timer started.
+00:33:51.937: Message received: team6,robot,1,VP07
+00:33:51.937: Awarded: 6 pts
+00:33:51.938: Team total: 6 pts
+00:33:55.816: Message received: team6,robot,2,XT71
+00:33:55.817: Awarded: 0 pts
+00:34:09.671: Message received: team6,robot,3,KW51
+00:34:09.672: Awarded: 6 pts
+00:34:09.672: Team total: 12 pts
+00:34:22.229: Message received: team6,robot,4,GF72
+00:34:22.230: Awarded: 6 pts
+00:34:22.232: Team total: 18 pts
+00:34:28.423: Message received: team6,robot,5,GZ92
+00:34:28.423: Awarded: 6 pts
+00:34:28.424: Team total: 24 pts
+00:34:33.212: Message received: team6,robot,6,CA66
+00:34:33.213: Awarded: 6 pts
+00:34:33.215: Team total: 30 pts
+00:34:41.247: Message received: team6,robot,7,PW92
+00:34:41.248: Awarded: 8 pts
+00:34:41.250: Team total: 38 pts
+00:34:50.972: Message received: team6,robot,8,WF47
+00:34:50.972: Awarded: 8 pts
+00:34:50.973: Team total: 46 pts
+00:34:59.426: Message received: team6,robot,1,VP07
+00:34:59.427: Awarded: 6 pts
+00:35:03.085: Message received: team6,robot,2,XI71
+00:35:03.085: Awarded: 6 pts
+00:35:03.087: Team total: 52 pts
+00:35:19.178: Message received: team6,robot,3,KW51
+00:35:19.179: Awarded: 6 pts
+00:35:34.354: Message received: team6,robot,4,GF72
+00:35:34.355: Awarded: 6 pts
+00:35:39.797: Message received: team6,robot,5,GZ92
+00:35:39.797: Awarded: 6 pts
+00:35:44.221: Message received: team6,robot,6,CA66
+00:35:44.221: Awarded: 6 pts
+00:35:53.196: Message received: team6,robot,7,PW92
+00:35:53.196: Awarded: 8 pts
+00:36:02.697: Message received: team6,robot,8,WF47
+00:36:02.697: Awarded: 8 pts
+00:36:12.038: Message received: team6,robot,1,VP07
+00:36:12.039: Awarded: 6 pts

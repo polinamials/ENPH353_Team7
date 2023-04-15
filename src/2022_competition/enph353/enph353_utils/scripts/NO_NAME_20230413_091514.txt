@@ -1,0 +1,10 @@
+09:15:14.572: Position 1: SR60
+09:15:14.585: Position 2: NB10
+09:15:14.585: Position 3: NJ15
+09:15:14.588: Position 4: RA04
+09:15:14.590: Position 5: XM09
+09:15:14.590: Position 6: NY73
+09:15:14.590: Position 7: BU52
+09:15:14.590: Position 8: NM61
+09:15:28.107: First command velocity received.
+09:15:28.698: Message received: team6,robot,0,XXXX

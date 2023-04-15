@@ -1,0 +1,19 @@
+23:23:02.330: Position 1: QL13
+23:23:02.331: Position 2: XQ74
+23:23:02.331: Position 3: PH11
+23:23:02.333: Position 4: MT12
+23:23:02.333: Position 5: PH76
+23:23:02.334: Position 6: GK10
+23:23:02.334: Position 7: HJ34
+23:23:02.334: Position 8: FQ59
+23:23:13.033: First command velocity received.
+23:23:13.637: Message received: team6,robot,0,XXXX
+23:23:13.638: Timer started.
+23:23:18.085: Message received: team6,robot,1,QL13
+23:23:18.090: Awarded: 6 pts
+23:23:18.090: Team total: 6 pts
+23:23:21.611: Message received: team6,robot,2,XQ74
+23:23:21.612: Awarded: 6 pts
+23:23:21.614: Team total: 12 pts
+23:23:33.266: Message received: team6,robot,2,XQ74
+23:23:33.267: Awarded: 6 pts

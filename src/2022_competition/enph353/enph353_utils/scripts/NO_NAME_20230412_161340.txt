@@ -1,0 +1,10 @@
+16:13:40.771: Position 1: EU66
+16:13:40.771: Position 2: HT57
+16:13:40.772: Position 3: LL54
+16:13:40.773: Position 4: EB82
+16:13:40.773: Position 5: BS14
+16:13:40.773: Position 6: RN02
+16:13:40.773: Position 7: FG89
+16:13:40.774: Position 8: OD31
+16:13:55.037: First command velocity received.
+16:13:55.570: Message received: team6,robot,0,XXXX

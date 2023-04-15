@@ -1,0 +1,58 @@
+09:27:02.467: Position 1: ZX07
+09:27:02.467: Position 2: OG68
+09:27:02.467: Position 3: TT44
+09:27:02.467: Position 4: KI48
+09:27:02.468: Position 5: MH99
+09:27:02.468: Position 6: CS17
+09:27:02.468: Position 7: WK90
+09:27:02.468: Position 8: YB35
+09:27:19.818: First command velocity received.
+09:27:20.438: Message received: team6,robot,0,XXXX
+09:27:20.439: Timer started.
+09:27:24.694: Message received: team6,robot,1,ZX07
+09:27:24.695: Awarded: 6 pts
+09:27:24.697: Team total: 6 pts
+09:27:28.940: Message received: team6,robot,2,OG68
+09:27:28.940: Awarded: 6 pts
+09:27:28.942: Team total: 12 pts
+09:27:41.310: Message received: team6,robot,3,TT44
+09:27:41.310: Awarded: 6 pts
+09:27:41.311: Team total: 18 pts
+09:27:56.520: Message received: team6,robot,4,KI48
+09:27:56.520: Awarded: 6 pts
+09:27:56.522: Team total: 24 pts
+09:28:06.539: Message received: team6,robot,6,CS17
+09:28:06.541: Awarded: 6 pts
+09:28:06.543: Team total: 30 pts
+09:28:15.035: Message received: team6,robot,7,WK90
+09:28:15.036: Awarded: 8 pts
+09:28:15.036: Team total: 38 pts
+09:28:37.481: Message received: team6,robot,2,OG68
+09:28:37.482: Awarded: 6 pts
+09:28:52.635: Message received: team6,robot,3,TT44
+09:28:52.635: Awarded: 6 pts
+09:29:04.833: Message received: team6,robot,4,KI48
+09:29:04.833: Awarded: 6 pts
+09:29:14.992: Message received: team6,robot,6,CS17
+09:29:14.993: Awarded: 6 pts
+09:29:22.549: Message received: team6,robot,7,WK90
+09:29:22.552: Awarded: 8 pts
+09:29:53.338: Message received: team6,robot,3,TT44
+09:29:53.339: Awarded: 6 pts
+09:30:05.169: Message received: team6,robot,4,KI48
+09:30:05.170: Awarded: 6 pts
+09:30:15.697: Message received: team6,robot,6,CS17
+09:30:15.697: Awarded: 6 pts
+09:30:23.321: Message received: team6,robot,7,WK90
+09:30:23.322: Awarded: 8 pts
+09:30:46.424: Message received: team6,robot,2,OG68
+09:30:46.424: Awarded: 6 pts
+09:30:57.482: Message received: team6,robot,3,TT44
+09:30:57.482: Awarded: 6 pts
+09:31:13.640: Message received: team6,robot,4,KI48
+09:31:13.641: Awarded: 6 pts
+09:31:23.658: Message received: team6,robot,6,CS17
+09:31:23.659: Awarded: 6 pts
+09:31:32.154: Message received: team6,robot,7,WK90
+09:31:32.155: Awarded: 8 pts
+09:31:44.571: Out of time: 240.757sec sim time (real time: 264sec).

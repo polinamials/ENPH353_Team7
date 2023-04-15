@@ -1,0 +1,17 @@
+00:49:28.301: Position 1: ZU01
+00:49:28.301: Position 2: FJ76
+00:49:28.301: Position 3: AO27
+00:49:28.303: Position 4: FY98
+00:49:28.303: Position 5: RK95
+00:49:28.303: Position 6: CM77
+00:49:28.303: Position 7: IA81
+00:49:28.303: Position 8: IA72
+00:49:40.656: First command velocity received.
+00:49:41.861: Message received: team6,robot,0,XXXX
+00:49:41.861: Timer started.
+00:49:47.223: Message received: team6,robot,1,ZU01
+00:49:47.224: Awarded: 6 pts
+00:49:47.227: Team total: 6 pts
+00:49:50.213: Message received: team6,robot,2,FJ76
+00:49:50.214: Awarded: 6 pts
+00:49:50.216: Team total: 12 pts

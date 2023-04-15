@@ -1,0 +1,10 @@
+00:37:17.128: Position 1: RI32
+00:37:17.128: Position 2: RU21
+00:37:17.128: Position 3: IA47
+00:37:17.130: Position 4: LE38
+00:37:17.130: Position 5: UM34
+00:37:17.130: Position 6: JI05
+00:37:17.131: Position 7: BU34
+00:37:17.131: Position 8: CV50
+00:37:31.686: First command velocity received.
+00:37:32.892: Message received: team6,robot,0,XXXX

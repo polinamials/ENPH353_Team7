@@ -1,0 +1,21 @@
+12:36:21.239: Position 1: ZH66
+12:36:21.239: Position 2: LQ87
+12:36:21.239: Position 3: FQ93
+12:36:21.240: Position 4: XK76
+12:36:21.240: Position 5: MD10
+12:36:21.240: Position 6: CY02
+12:36:21.241: Position 7: WY64
+12:36:21.241: Position 8: XQ17
+12:36:29.057: Message received: team6,robot,0,XXXX
+12:36:29.058: Timer started.
+12:36:29.127: First command velocity received.
+12:36:33.910: Message received: team6,robot,1,ZH66
+12:36:33.911: Awarded: 6 pts
+12:36:33.913: Team total: 6 pts
+12:36:37.879: Message received: team6,robot,2,LQ87
+12:36:37.881: Awarded: 6 pts
+12:36:37.883: Team total: 12 pts
+12:36:46.715: Message received: team6,robot,1,ZH66
+12:36:46.716: Awarded: 6 pts
+12:36:50.568: Message received: team6,robot,2,LQ87
+12:36:50.568: Awarded: 6 pts

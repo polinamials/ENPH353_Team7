@@ -1,0 +1,10 @@
+09:17:23.415: Position 1: LO17
+09:17:23.419: Position 2: ZK32
+09:17:23.420: Position 3: SI90
+09:17:23.423: Position 4: JD71
+09:17:23.425: Position 5: JT22
+09:17:23.425: Position 6: AL74
+09:17:23.426: Position 7: UJ03
+09:17:23.426: Position 8: NM09
+09:17:34.561: First command velocity received.
+09:17:35.221: Message received: team6,robot,0,XXXX

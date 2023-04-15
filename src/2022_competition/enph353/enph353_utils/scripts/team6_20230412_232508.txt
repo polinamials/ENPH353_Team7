@@ -1,0 +1,14 @@
+23:24:59.453: Position 1: XS47
+23:24:59.453: Position 2: DD62
+23:24:59.453: Position 3: XA61
+23:24:59.456: Position 4: SI34
+23:24:59.456: Position 5: XZ01
+23:24:59.456: Position 6: JF88
+23:24:59.456: Position 7: BC20
+23:24:59.456: Position 8: TQ80
+23:25:04.438: First command velocity received.
+23:25:08.435: Message received: team6,robot,0,XXXX
+23:25:08.435: Timer started.
+23:25:12.335: Message received: team6,robot,1,XS47
+23:25:12.336: Awarded: 6 pts
+23:25:12.337: Team total: 6 pts

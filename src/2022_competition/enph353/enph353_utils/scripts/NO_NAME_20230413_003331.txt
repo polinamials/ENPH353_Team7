@@ -1,0 +1,10 @@
+00:33:31.099: Position 1: VP07
+00:33:31.099: Position 2: XI71
+00:33:31.099: Position 3: KW51
+00:33:31.100: Position 4: GF72
+00:33:31.100: Position 5: GZ92
+00:33:31.101: Position 6: CA66
+00:33:31.101: Position 7: PW92
+00:33:31.101: Position 8: WF47
+00:33:45.369: First command velocity received.
+00:33:46.577: Message received: team6,robot,0,XXXX

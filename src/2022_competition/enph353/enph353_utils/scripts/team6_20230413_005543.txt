@@ -1,0 +1,30 @@
+00:55:27.278: Position 1: WO94
+00:55:27.279: Position 2: UH35
+00:55:27.279: Position 3: HX95
+00:55:27.279: Position 4: SQ24
+00:55:27.279: Position 5: QJ75
+00:55:27.279: Position 6: QB83
+00:55:27.280: Position 7: TU53
+00:55:27.280: Position 8: FZ37
+00:55:43.000: First command velocity received.
+00:55:43.673: Message received: team6,robot,0,XXXX
+00:55:43.674: Timer started.
+00:55:51.955: Message received: team6,robot,2,UH35
+00:55:51.956: Awarded: 6 pts
+00:55:51.957: Team total: 6 pts
+00:56:04.256: Message received: team6,robot,3,HX95
+00:56:04.256: Awarded: 6 pts
+00:56:04.257: Team total: 12 pts
+00:56:18.095: Message received: team6,robot,4,SO24
+00:56:18.095: Awarded: 0 pts
+00:56:23.701: Message received: team6,robot,5,QJ7S
+00:56:23.702: Awarded: 0 pts
+00:56:28.646: Message received: team6,robot,6,QB83
+00:56:28.647: Awarded: 6 pts
+00:56:28.648: Team total: 18 pts
+00:56:37.195: Message received: team6,robot,7,TU53
+00:56:37.196: Awarded: 8 pts
+00:56:37.211: Team total: 26 pts
+00:56:46.857: Message received: team6,robot,8,FZ37
+00:56:46.857: Awarded: 8 pts
+00:56:46.858: Team total: 34 pts

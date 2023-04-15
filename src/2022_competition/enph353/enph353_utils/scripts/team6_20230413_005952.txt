@@ -1,0 +1,14 @@
+00:59:40.960: Position 1: EO54
+00:59:40.960: Position 2: LD44
+00:59:40.965: Position 3: WJ84
+00:59:40.969: Position 4: YH40
+00:59:40.973: Position 5: HL48
+00:59:40.974: Position 6: BK75
+00:59:40.974: Position 7: AH72
+00:59:40.974: Position 8: LM42
+00:59:52.146: First command velocity received.
+00:59:52.920: Message received: team6,robot,0,XXXX
+00:59:52.920: Timer started.
+01:00:00.915: Message received: team6,robot,2,LD44
+01:00:00.915: Awarded: 6 pts
+01:00:00.916: Team total: 6 pts

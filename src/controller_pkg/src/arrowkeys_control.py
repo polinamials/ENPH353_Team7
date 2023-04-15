@@ -28,6 +28,8 @@ class ImitationTrainer:
         self.move.angular.z = 0.0
 
         # DO NOT CHANGE THESE!
+        # changed from 0.25, 1 to 0.425, 1.7
+        # for 0.7 real time factor
         self.FORWARD_SPEED = 0.25
         self.TURN_SPEED = 1.0
 

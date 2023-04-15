@@ -1,0 +1,14 @@
+09:14:12.589: Position 1: NT23
+09:14:12.589: Position 2: SG03
+09:14:12.590: Position 3: ZG05
+09:14:12.591: Position 4: IP85
+09:14:12.591: Position 5: HO02
+09:14:12.591: Position 6: XW25
+09:14:12.592: Position 7: OI98
+09:14:12.592: Position 8: ZJ70
+09:14:35.192: First command velocity received.
+09:14:35.814: Message received: team6,robot,0,XXXX
+09:14:35.815: Timer started.
+09:14:40.127: Message received: team6,robot,1,NT23
+09:14:40.128: Awarded: 6 pts
+09:14:40.128: Team total: 6 pts

@@ -1,0 +1,10 @@
+00:31:13.079: Position 1: JB36
+00:31:13.080: Position 2: ZW63
+00:31:13.080: Position 3: OM32
+00:31:13.082: Position 4: BO65
+00:31:13.083: Position 5: CD47
+00:31:13.083: Position 6: RO73
+00:31:13.083: Position 7: YD26
+00:31:13.083: Position 8: NH78
+00:31:22.460: First command velocity received.
+00:31:23.663: Message received: team6,robot,0,XXXX

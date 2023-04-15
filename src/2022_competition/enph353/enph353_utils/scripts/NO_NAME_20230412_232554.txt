@@ -1,0 +1,10 @@
+23:25:54.778: Position 1: MZ73
+23:25:54.778: Position 2: KQ51
+23:25:54.779: Position 3: TH20
+23:25:54.779: Position 4: IE35
+23:25:54.779: Position 5: BS22
+23:25:54.779: Position 6: RR23
+23:25:54.780: Position 7: QC13
+23:25:54.780: Position 8: TR39
+23:26:01.563: First command velocity received.
+23:26:05.331: Message received: team6,robot,0,XXXX

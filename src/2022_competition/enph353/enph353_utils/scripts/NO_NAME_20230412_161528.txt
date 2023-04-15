@@ -1,0 +1,10 @@
+16:15:28.432: Position 1: IY61
+16:15:28.432: Position 2: KK67
+16:15:28.432: Position 3: MU28
+16:15:28.435: Position 4: SF01
+16:15:28.435: Position 5: HL03
+16:15:28.435: Position 6: YJ35
+16:15:28.435: Position 7: MT19
+16:15:28.435: Position 8: ZN61
+16:15:36.836: First command velocity received.
+16:15:37.414: Message received: team6,robot,0,XXXX

@@ -1,0 +1,10 @@
+01:06:55.688: Position 1: AO53
+01:06:55.688: Position 2: OO28
+01:06:55.688: Position 3: TQ92
+01:06:55.689: Position 4: QW97
+01:06:55.689: Position 5: WT35
+01:06:55.689: Position 6: AU21
+01:06:55.689: Position 7: YI82
+01:06:55.690: Position 8: VJ69
+01:07:06.907: First command velocity received.
+01:07:07.524: Message received: team6,robot,0,XXXX

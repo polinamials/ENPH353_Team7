@@ -1,0 +1,10 @@
+09:10:19.870: Position 1: RV33
+09:10:19.870: Position 2: TH42
+09:10:19.870: Position 3: SQ18
+09:10:19.870: Position 4: RF43
+09:10:19.870: Position 5: KK97
+09:10:19.871: Position 6: CQ04
+09:10:19.871: Position 7: MP23
+09:10:19.871: Position 8: IY60
+09:10:44.277: First command velocity received.
+09:10:44.963: Message received: team6,robot,0,XXXX

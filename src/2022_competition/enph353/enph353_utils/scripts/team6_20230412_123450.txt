@@ -1,0 +1,17 @@
+12:34:16.752: Position 1: QP01
+12:34:16.753: Position 2: TP17
+12:34:16.753: Position 3: AC19
+12:34:16.755: Position 4: KB75
+12:34:16.755: Position 5: QQ84
+12:34:16.755: Position 6: FA13
+12:34:16.755: Position 7: RI04
+12:34:16.755: Position 8: BM97
+12:34:50.140: Message received: team6,robot,0,XXXX
+12:34:50.140: Timer started.
+12:34:50.211: First command velocity received.
+12:34:55.173: Message received: team6,robot,1,QP01
+12:34:55.174: Awarded: 6 pts
+12:34:55.175: Team total: 6 pts
+12:34:58.662: Message received: team6,robot,2,TP17
+12:34:58.662: Awarded: 6 pts
+12:34:58.664: Team total: 12 pts

@@ -1,0 +1,10 @@
+10:42:48.433: Position 1: FW50
+10:42:48.433: Position 2: UF61
+10:42:48.433: Position 3: IJ20
+10:42:48.433: Position 4: TM15
+10:42:48.434: Position 5: AV64
+10:42:48.434: Position 6: EE26
+10:42:48.434: Position 7: EE25
+10:42:48.434: Position 8: SY25
+10:43:07.963: First command velocity received.
+10:43:08.632: Message received: team6,robot,0,XXXX

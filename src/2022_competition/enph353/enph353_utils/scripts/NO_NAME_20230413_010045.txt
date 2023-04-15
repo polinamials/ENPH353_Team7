@@ -1,0 +1,10 @@
+01:00:45.331: Position 1: XE09
+01:00:45.332: Position 2: HX22
+01:00:45.332: Position 3: HM45
+01:00:45.332: Position 4: HH44
+01:00:45.332: Position 5: XH66
+01:00:45.332: Position 6: GC94
+01:00:45.333: Position 7: GE46
+01:00:45.333: Position 8: DL96
+01:00:57.930: First command velocity received.
+01:00:58.650: Message received: team6,robot,0,XXXX

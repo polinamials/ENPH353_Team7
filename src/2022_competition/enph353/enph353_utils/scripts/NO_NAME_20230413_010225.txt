@@ -1,0 +1,10 @@
+01:02:25.216: Position 1: MO89
+01:02:25.216: Position 2: GB91
+01:02:25.216: Position 3: IG16
+01:02:25.217: Position 4: XP86
+01:02:25.217: Position 5: XL30
+01:02:25.217: Position 6: CC79
+01:02:25.217: Position 7: GO85
+01:02:25.218: Position 8: KU28
+01:02:35.083: First command velocity received.
+01:02:35.788: Message received: team6,robot,0,XXXX

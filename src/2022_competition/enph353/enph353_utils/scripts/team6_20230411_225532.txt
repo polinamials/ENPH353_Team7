@@ -1,0 +1,34 @@
+22:55:26.453: Position 1: DK85
+22:55:26.453: Position 2: HM49
+22:55:26.453: Position 3: CG64
+22:55:26.454: Position 4: NK49
+22:55:26.454: Position 5: BP15
+22:55:26.454: Position 6: OV11
+22:55:26.455: Position 7: WL83
+22:55:26.455: Position 8: SM17
+22:55:32.994: Message received: team6,robot,0,XXXX
+22:55:32.995: Timer started.
+22:55:33.063: First command velocity received.
+22:55:37.876: Message received: team6,robot,1,DK85
+22:55:37.877: Awarded: 6 pts
+22:55:37.878: Team total: 6 pts
+22:55:41.823: Message received: team6,robot,2,HM49
+22:55:41.824: Awarded: 6 pts
+22:55:41.825: Team total: 12 pts
+22:55:54.888: Message received: team6,robot,3,CG64
+22:55:54.889: Awarded: 6 pts
+22:55:54.889: Team total: 18 pts
+22:56:11.710: Message received: team6,robot,2,HM49
+22:56:11.711: Awarded: 6 pts
+22:56:27.414: Message received: team6,robot,3,CG64
+22:56:27.415: Awarded: 6 pts
+22:56:36.597: Message received: team6,robot,4,NK49
+22:56:36.597: Awarded: 6 pts
+22:56:36.599: Team total: 24 pts
+22:56:41.872: Message received: team6,robot,5,BP1S
+22:56:41.874: Awarded: 0 pts
+22:56:46.373: Message received: team6,robot,6,OV11
+22:56:46.373: Awarded: 6 pts
+22:56:46.375: Team total: 30 pts
+22:56:51.836: Message received: team6,robot,1,DK85
+22:56:51.837: Awarded: 6 pts

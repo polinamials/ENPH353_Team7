@@ -1,0 +1,10 @@
+09:12:26.023: Position 1: BH75
+09:12:26.024: Position 2: HD27
+09:12:26.024: Position 3: FL28
+09:12:26.025: Position 4: KF55
+09:12:26.025: Position 5: XR65
+09:12:26.025: Position 6: TU65
+09:12:26.026: Position 7: UZ58
+09:12:26.026: Position 8: AW16
+09:12:40.000: First command velocity received.
+09:12:40.621: Message received: team6,robot,0,XXXX

@@ -1,0 +1,13 @@
+15:35:01.239: Position 1: IV76
+15:35:01.239: Position 2: PX47
+15:35:01.239: Position 3: PH14
+15:35:01.241: Position 4: MX84
+15:35:01.241: Position 5: PP56
+15:35:01.241: Position 6: AY39
+15:35:01.242: Position 7: JP11
+15:35:01.242: Position 8: FB31
+15:35:09.287: Message received: team6,robot,0,XXXX
+15:35:09.288: Timer started.
+15:35:09.352: First command velocity received.
+15:35:13.897: Message received: team6,robot,1,TV76
+15:35:13.897: Awarded: 0 pts

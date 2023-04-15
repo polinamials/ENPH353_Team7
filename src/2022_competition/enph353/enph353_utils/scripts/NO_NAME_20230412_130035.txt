@@ -1,0 +1,10 @@
+13:00:35.667: Position 1: MR58
+13:00:35.667: Position 2: DI40
+13:00:35.667: Position 3: EO56
+13:00:35.670: Position 4: WL12
+13:00:35.670: Position 5: NG46
+13:00:35.670: Position 6: PN70
+13:00:35.670: Position 7: QQ02
+13:00:35.670: Position 8: QG66
+13:00:42.254: First command velocity received.
+13:00:42.860: Message received: team6,robot,0,XXXX

@@ -1,0 +1,10 @@
+01:15:07.876: Position 1: RD26
+01:15:07.876: Position 2: XZ15
+01:15:07.876: Position 3: BH18
+01:15:07.877: Position 4: BY10
+01:15:07.877: Position 5: HV50
+01:15:07.877: Position 6: CU45
+01:15:07.877: Position 7: MF83
+01:15:07.878: Position 8: AS69
+01:15:13.899: First command velocity received.
+01:15:14.514: Message received: team6,robot,0,XXXX

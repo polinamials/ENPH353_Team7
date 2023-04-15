@@ -1,0 +1,10 @@
+01:05:32.270: Position 1: QQ10
+01:05:32.270: Position 2: BS90
+01:05:32.271: Position 3: HM47
+01:05:32.271: Position 4: DB93
+01:05:32.271: Position 5: LB24
+01:05:32.271: Position 6: YD29
+01:05:32.272: Position 7: MA85
+01:05:32.272: Position 8: FW71
+01:05:39.076: First command velocity received.
+01:05:39.781: Message received: team6,robot,0,XXXX

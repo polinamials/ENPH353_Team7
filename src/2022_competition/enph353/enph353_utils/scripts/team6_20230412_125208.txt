@@ -1,0 +1,11 @@
+12:51:56.019: Position 1: SL60
+12:51:56.020: Position 2: SG07
+12:51:56.020: Position 3: EN61
+12:51:56.022: Position 4: AI21
+12:51:56.022: Position 5: PK98
+12:51:56.023: Position 6: JG21
+12:51:56.023: Position 7: FX16
+12:51:56.023: Position 8: RG18
+12:52:07.299: First command velocity received.
+12:52:08.039: Message received: team6,robot,0,XXXX
+12:52:08.040: Timer started.

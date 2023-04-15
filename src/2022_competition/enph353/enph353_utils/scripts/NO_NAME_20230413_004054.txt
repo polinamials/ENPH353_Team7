@@ -1,0 +1,10 @@
+00:40:54.919: Position 1: ZR57
+00:40:54.919: Position 2: NR24
+00:40:54.919: Position 3: DU91
+00:40:54.919: Position 4: XE17
+00:40:54.920: Position 5: LT25
+00:40:54.920: Position 6: BN33
+00:40:54.920: Position 7: PK22
+00:40:54.920: Position 8: MU14
+00:41:01.193: First command velocity received.
+00:41:02.393: Message received: team6,robot,0,XXXX

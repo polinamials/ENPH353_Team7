@@ -1,0 +1,53 @@
+01:06:55.688: Position 1: AO53
+01:06:55.688: Position 2: OO28
+01:06:55.688: Position 3: TQ92
+01:06:55.689: Position 4: QW97
+01:06:55.689: Position 5: WT35
+01:06:55.689: Position 6: AU21
+01:06:55.689: Position 7: YI82
+01:06:55.690: Position 8: VJ69
+01:07:06.907: First command velocity received.
+01:07:07.524: Message received: team6,robot,0,XXXX
+01:07:07.525: Timer started.
+01:07:11.882: Message received: team6,robot,1,AO53
+01:07:11.883: Awarded: 6 pts
+01:07:11.889: Team total: 6 pts
+01:07:16.520: Message received: team6,robot,2,OO28
+01:07:16.521: Awarded: 6 pts
+01:07:16.522: Team total: 12 pts
+01:07:29.745: Message received: team6,robot,3,TQ92
+01:07:29.747: Awarded: 6 pts
+01:07:29.749: Team total: 18 pts
+01:07:43.182: Message received: team6,robot,4,DW97
+01:07:43.183: Awarded: 0 pts
+01:07:53.110: Message received: team6,robot,6,AU21
+01:07:53.111: Awarded: 6 pts
+01:07:53.114: Team total: 24 pts
+01:08:01.936: Message received: team6,robot,7,YT82
+01:08:01.936: Awarded: 0 pts
+01:08:11.353: Message received: team6,robot,8,VJ69
+01:08:11.354: Awarded: 8 pts
+01:08:11.360: Team total: 32 pts
+01:08:20.315: Message received: team6,robot,1,AO53
+01:08:20.315: Awarded: 6 pts
+01:08:24.875: Message received: team6,robot,2,OO28
+01:08:24.876: Awarded: 6 pts
+01:08:39.960: Message received: team6,robot,3,TQ92
+01:08:39.961: Awarded: 6 pts
+01:08:53.087: Message received: team6,robot,4,OW97
+01:08:53.088: Awarded: 0 pts
+01:08:58.760: Message received: team6,robot,5,WT35
+01:08:58.760: Awarded: 6 pts
+01:08:58.766: Team total: 38 pts
+01:09:03.388: Message received: team6,robot,6,AU21
+01:09:03.388: Awarded: 6 pts
+01:09:10.952: Message received: team6,robot,7,YT82
+01:09:10.952: Awarded: 0 pts
+01:09:21.260: Message received: team6,robot,8,VJ69
+01:09:21.260: Awarded: 8 pts
+01:09:30.384: Message received: team6,robot,1,AO53
+01:09:30.384: Awarded: 6 pts
+01:09:35.084: Message received: team6,robot,2,OO28
+01:09:35.084: Awarded: 6 pts
+01:09:47.180: Message received: team6,robot,3,TQ92
+01:09:47.181: Awarded: 6 pts

@@ -1,0 +1,57 @@
+09:17:23.415: Position 1: LO17
+09:17:23.419: Position 2: ZK32
+09:17:23.420: Position 3: SI90
+09:17:23.423: Position 4: JD71
+09:17:23.425: Position 5: JT22
+09:17:23.425: Position 6: AL74
+09:17:23.426: Position 7: UJ03
+09:17:23.426: Position 8: NM09
+09:17:34.561: First command velocity received.
+09:17:35.221: Message received: team6,robot,0,XXXX
+09:17:35.222: Timer started.
+09:17:39.509: Message received: team6,robot,1,LO17
+09:17:39.509: Awarded: 6 pts
+09:17:39.510: Team total: 6 pts
+09:17:43.316: Message received: team6,robot,2,ZK32
+09:17:43.320: Awarded: 6 pts
+09:17:43.324: Team total: 12 pts
+09:17:58.326: Message received: team6,robot,3,SI90
+09:17:58.327: Awarded: 6 pts
+09:17:58.328: Team total: 18 pts
+09:18:13.031: Message received: team6,robot,4,JD71
+09:18:13.033: Awarded: 6 pts
+09:18:13.038: Team total: 24 pts
+09:18:18.659: Message received: team6,robot,5,JT22
+09:18:18.663: Awarded: 6 pts
+09:18:18.663: Team total: 30 pts
+09:18:23.126: Message received: team6,robot,6,AL74
+09:18:23.127: Awarded: 6 pts
+09:18:23.128: Team total: 36 pts
+09:18:30.464: Message received: team6,robot,7,UJ03
+09:18:30.464: Awarded: 8 pts
+09:18:30.465: Team total: 44 pts
+09:18:49.556: Message received: team6,robot,1,LO17
+09:18:49.557: Awarded: 6 pts
+09:18:53.284: Message received: team6,robot,2,ZK32
+09:18:53.285: Awarded: 6 pts
+09:19:05.657: Message received: team6,robot,3,SI90
+09:19:05.657: Awarded: 6 pts
+09:19:21.006: Message received: team6,robot,4,JD71
+09:19:21.007: Awarded: 6 pts
+09:19:26.709: Message received: team6,robot,5,JT22
+09:19:26.710: Awarded: 6 pts
+09:19:30.598: Message received: team6,robot,6,AL74
+09:19:30.602: Awarded: 6 pts
+09:19:39.470: Message received: team6,robot,7,UJ03
+09:19:39.471: Awarded: 8 pts
+09:19:48.463: Message received: team6,robot,8,NM09
+09:19:48.464: Awarded: 8 pts
+09:19:48.466: Team total: 52 pts
+09:19:57.310: Message received: team6,robot,1,LO17
+09:19:57.311: Awarded: 6 pts
+09:20:01.271: Message received: team6,robot,2,ZK32
+09:20:01.272: Awarded: 6 pts
+09:20:12.691: Message received: team6,robot,3,SI90
+09:20:12.692: Awarded: 6 pts
+09:20:23.501: Message received: team6,robot,4,JD71
+09:20:23.501: Awarded: 6 pts

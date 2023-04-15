@@ -1,0 +1,45 @@
+22:52:25.930: Position 1: LP30
+22:52:25.930: Position 2: AY05
+22:52:25.930: Position 3: AA95
+22:52:25.934: Position 4: KF54
+22:52:25.934: Position 5: MW50
+22:52:25.935: Position 6: MY93
+22:52:25.935: Position 7: AV74
+22:52:25.935: Position 8: WF80
+22:52:32.337: Message received: team6,robot,0,XXXX
+22:52:32.339: Timer started.
+22:52:32.407: First command velocity received.
+22:52:37.002: Message received: team6,robot,1,LP30
+22:52:37.002: Awarded: 6 pts
+22:52:37.003: Team total: 6 pts
+22:52:40.275: Message received: team6,robot,2,AY05
+22:52:40.277: Awarded: 6 pts
+22:52:40.284: Team total: 12 pts
+22:52:54.769: Message received: team6,robot,1,LP30
+22:52:54.770: Awarded: 6 pts
+22:52:57.893: Message received: team6,robot,2,AY05
+22:52:57.893: Awarded: 6 pts
+22:53:23.441: Message received: team6,robot,0,XXXX
+22:53:23.442: Timer started.
+22:53:27.687: Message received: team6,robot,1,LP30
+22:53:27.689: Awarded: 6 pts
+22:53:30.267: Message received: team6,robot,2,AY05
+22:53:30.267: Awarded: 6 pts
+22:53:36.364: Message received: team6,robot,1,LP30
+22:53:36.364: Awarded: 6 pts
+22:53:41.342: Message received: team6,robot,2,AY05
+22:53:41.343: Awarded: 6 pts
+22:53:45.256: Message received: team6,robot,1,LP30
+22:53:45.257: Awarded: 6 pts
+22:53:49.948: Message received: team6,robot,2,AY05
+22:53:49.949: Awarded: 6 pts
+22:54:16.237: Message received: team6,robot,0,XXXX
+22:54:16.238: Timer started.
+22:54:21.026: Message received: team6,robot,1,LP30
+22:54:21.026: Awarded: 6 pts
+22:54:25.833: Message received: team6,robot,2,AY05
+22:54:25.834: Awarded: 6 pts
+22:54:34.382: Message received: team6,robot,1,LP30
+22:54:34.382: Awarded: 6 pts
+22:54:38.010: Message received: team6,robot,2,AY05
+22:54:38.011: Awarded: 6 pts

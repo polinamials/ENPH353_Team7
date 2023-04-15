@@ -1,0 +1,10 @@
+12:53:11.098: Position 1: DY63
+12:53:11.098: Position 2: KN86
+12:53:11.098: Position 3: BQ47
+12:53:11.100: Position 4: VE95
+12:53:11.101: Position 5: EE69
+12:53:11.101: Position 6: IE23
+12:53:11.101: Position 7: NL49
+12:53:11.101: Position 8: QD80
+12:53:16.693: First command velocity received.
+12:53:17.475: Message received: team6,robot,0,XXXX
